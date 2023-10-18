@@ -1,0 +1,1592 @@
+{
+  "kind": "youtube#videoListResponse",
+  "etag": "xQmllrPU7ySgBEoMbS-OBYlxPQI",
+  "items": [
+    {
+      "kind": "youtube#video",
+      "etag": "3YgIZXWUj0fkyMehZQN2y8rI8js",
+      "id": "ZiP1l7jlIIA",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:31:08Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Apple Event - September 12",
+        "description": "Watch the special Apple Event to learn about iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra 2, and more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/Xb8LykDM1x0\n\nAudio Descriptions: https://apple.co/3EBlFIz\n\n00:00:00 Introduction\n00:10:14 Apple Watch Series 9\n00:30:32 Apple Watch Ultra 2\n00:36:36 iPhone 15\n00:56:32 iPhone 15 Pro\n\n“Beautiful Day (Thank You for Sunshine)” by Trinix, Rushawn, Jermaine Edwards https://apple.co/beautiful-day\n“Tumbling Dice” by Little Dragon https://apple.co/tumbling-dice\n“Sunsleeper” by Barry Can't Swim https://apple.co/sunsleeper\n“the light” by Deborah's Child https://apple.co/the-light\n“Ya Ya Power” by KingupingU https://apple.co/ya-ya-power\n“Heavy (But Not In Wait) Sam O.B. Remix” by L'Rain https://apple.co/heavy-but-not-in-wait\n“Where's My Iris” by Lana Lubany https://apple.co/wheres-my-iris\n“YOU BROKE MY HEART BUT IMMA FIX IT” by SBTRKT https://apple.co/you-broke-my-heart\n“High Beams” by Tkay Maidza https://apple.co/high-beams\n“2 Wheel Drive\" by Magdelena Bay https://apple.co/2-wheel-drive\n“WOW” by Team Salut, DÜKI TRAN https://apple.co/wow_teamsalut\n“Rush” by Psylla https://apple.co/rush_psylla\n“Hot! (feat. Jadagrace, SWIM & TJOnline)” by grouptherapy. https://apple.co/hot\n“Innocence\" by Innocence Collective https://apple.co/innocence\n“Natural Wonder Beauty Concept” by Natural Wonder Beauty Concept https://apple.co/natural-wonder-beauty-concept\n“Magic In U” by Cub Sport https://apple.co/magic-in-u\n\n#AppleEvent #iPhone15Pro #iPhone15 #AppleWatchUltra2 #AppleWatchSeries9\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ZiP1l7jlIIA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple",
+        "tags": [
+          "Apple",
+          "Apple Event",
+          "Apple Keynote",
+          "Apple Special Event",
+          "keynote",
+          "Apple Watch Series 9",
+          "Apple Watch Ultra 2",
+          "iPhone 15 Pro",
+          "iPhone 15"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Apple Event - September 12",
+          "description": "Watch the special Apple Event to learn about iPhone 15, iPhone 15 Pro, Apple Watch Series 9, Apple Watch Ultra 2, and more.\n\nTo watch the event interpreted in American Sign Language (ASL), please click here: https://youtu.be/Xb8LykDM1x0\n\nAudio Descriptions: https://apple.co/3EBlFIz\n\n00:00:00 Introduction\n00:10:14 Apple Watch Series 9\n00:30:32 Apple Watch Ultra 2\n00:36:36 iPhone 15\n00:56:32 iPhone 15 Pro\n\n“Beautiful Day (Thank You for Sunshine)” by Trinix, Rushawn, Jermaine Edwards https://apple.co/beautiful-day\n“Tumbling Dice” by Little Dragon https://apple.co/tumbling-dice\n“Sunsleeper” by Barry Can't Swim https://apple.co/sunsleeper\n“the light” by Deborah's Child https://apple.co/the-light\n“Ya Ya Power” by KingupingU https://apple.co/ya-ya-power\n“Heavy (But Not In Wait) Sam O.B. Remix” by L'Rain https://apple.co/heavy-but-not-in-wait\n“Where's My Iris” by Lana Lubany https://apple.co/wheres-my-iris\n“YOU BROKE MY HEART BUT IMMA FIX IT” by SBTRKT https://apple.co/you-broke-my-heart\n“High Beams” by Tkay Maidza https://apple.co/high-beams\n“2 Wheel Drive\" by Magdelena Bay https://apple.co/2-wheel-drive\n“WOW” by Team Salut, DÜKI TRAN https://apple.co/wow_teamsalut\n“Rush” by Psylla https://apple.co/rush_psylla\n“Hot! (feat. Jadagrace, SWIM & TJOnline)” by grouptherapy. https://apple.co/hot\n“Innocence\" by Innocence Collective https://apple.co/innocence\n“Natural Wonder Beauty Concept” by Natural Wonder Beauty Concept https://apple.co/natural-wonder-beauty-concept\n“Magic In U” by Cub Sport https://apple.co/magic-in-u\n\n#AppleEvent #iPhone15Pro #iPhone15 #AppleWatchUltra2 #AppleWatchSeries9\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FoItrMJGap4KXrRbgvwDNyEKJc4",
+      "id": "xqyUdNxWazA",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:34:22Z",
+        "channelId": "UCE_M8A5yxnLfW0KghEeajjw",
+        "title": "Introducing iPhone 15 Pro | Apple",
+        "description": "The new iPhone 15 Pro and iPhone 15 Pro Max are ready for action. Built with aerospace-grade titanium for our lightest, most powerful Pro models ever.\n\nThe new Pro camera system pushes the limits of what’s possible on a smartphone, giving photographers the equivalent of seven pro lenses ranging from 13 mm on the Ultra Wide camera to 120 mm on the 5x Telephoto camera on iPhone 15 Pro Max.\n\nFilmmakers can now record video in ProRes 4K at 60 fps directly to an external drive. The addition of a USB-C connector brings superfast USB 3 transfer speeds, along with support for pro formats that massively improve the workflow between shooting and post-production.\n\nThe new design also includes a customizable Action button for quicker access to your favorite feature.*\n\nAnd the A17 Pro chip with a 6-core GPU introduces a whole new level of immersive mobile gaming performance. \n\nIn short, the new titanium iPhone 15 Pro is our most powerful photo-taking, movie-making, game-playing iPhone ever.\n\nLearn more about iPhone 15 Pro and iPhone 15 Pro Max: https://apple.co/3PBuiJq\n\nAudio Descriptions: https://apple.co/44QCI3W\n\n#AppleEvent #iPhone15Pro #iPhone\n\n*Translate action is coming in an update later this year\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/xqyUdNxWazA/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Apple",
+        "tags": [
+          "iPhone",
+          "iPhone 15 Pro",
+          "iPhone 15 Pro Max",
+          "titanium",
+          "aerospace-grade titanium",
+          "7 pro lenses",
+          "120 mm",
+          "5x Telephoto",
+          "USB-C",
+          "USB 3",
+          "ProRes 4K",
+          "60 fps",
+          "A17 Pro chip",
+          "6-core GPU",
+          "Action button",
+          "Apple Event"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Introducing iPhone 15 Pro | Apple",
+          "description": "The new iPhone 15 Pro and iPhone 15 Pro Max are ready for action. Built with aerospace-grade titanium for our lightest, most powerful Pro models ever.\n\nThe new Pro camera system pushes the limits of what’s possible on a smartphone, giving photographers the equivalent of seven pro lenses ranging from 13 mm on the Ultra Wide camera to 120 mm on the 5x Telephoto camera on iPhone 15 Pro Max.\n\nFilmmakers can now record video in ProRes 4K at 60 fps directly to an external drive. The addition of a USB-C connector brings superfast USB 3 transfer speeds, along with support for pro formats that massively improve the workflow between shooting and post-production.\n\nThe new design also includes a customizable Action button for quicker access to your favorite feature.*\n\nAnd the A17 Pro chip with a 6-core GPU introduces a whole new level of immersive mobile gaming performance. \n\nIn short, the new titanium iPhone 15 Pro is our most powerful photo-taking, movie-making, game-playing iPhone ever.\n\nLearn more about iPhone 15 Pro and iPhone 15 Pro Max: https://apple.co/3PBuiJq\n\nAudio Descriptions: https://apple.co/44QCI3W\n\n#AppleEvent #iPhone15Pro #iPhone\n\n*Translate action is coming in an update later this year\n\nWelcome to the official Apple YouTube channel. Here you’ll find news about product launches, tutorials, and other great content. Apple’s more than 160,000 employees are dedicated to making the best products on earth, and to leaving the world better than we found it."
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "DlsmCAEjM0g9v4dDdgnZV7VQUYE",
+      "id": "d9JblG0O3Io",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:28:35Z",
+        "channelId": "UCOmcA3f_RrH6b9NmcNa4tdg",
+        "title": "Apple iPhone 15 Event: Everything Revealed in 11 Minutes",
+        "description": "At Apple's Wonderlust event, the company revealed all-new products, including the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Apple Watch Series 9 and Apple Watch Ultra 2. See all the products recapped in our 11-minute supercut.\n\nApple's 'Wonderlust' Event Highlights iPhone 15, USB-C, Apple Watch 9: Everything Apple Announced https://cnet.co/45JELYW\n\n0:00 Intro\n0:08 Apple Watch Series 9\n1:26 Apple Watch Double Tap\n2:17 Apple Watch S9 SiP\n2:55 Apple Watch Ultra 2\n4:10 Apple Watch SE\n4:26 Apple Watch Prices and Availability\n4:43 iPhone 15\n5:57 iPhone 15 USB-C\n7:00 iPhone 15 Prices and Availability\n7:13 iPhone 15 Pro Titanium\n10:56 iPhone 15 Pro Prices and Availability\n\nSubscribe to CNET: https://www.youtube.com/user/CNETTV\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on Twitter: https://www.twitter.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\n\n#apple #applewatch #iphone15",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/d9JblG0O3Io/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "CNET",
+        "tags": ["CNET", "Technology", "tech"],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Apple iPhone 15 Event: Everything Revealed in 11 Minutes",
+          "description": "At Apple's Wonderlust event, the company revealed all-new products, including the iPhone 15, iPhone 15 Plus, iPhone 15 Pro, iPhone 15 Pro Max, Apple Watch Series 9 and Apple Watch Ultra 2. See all the products recapped in our 11-minute supercut.\n\nApple's 'Wonderlust' Event Highlights iPhone 15, USB-C, Apple Watch 9: Everything Apple Announced https://cnet.co/45JELYW\n\n0:00 Intro\n0:08 Apple Watch Series 9\n1:26 Apple Watch Double Tap\n2:17 Apple Watch S9 SiP\n2:55 Apple Watch Ultra 2\n4:10 Apple Watch SE\n4:26 Apple Watch Prices and Availability\n4:43 iPhone 15\n5:57 iPhone 15 USB-C\n7:00 iPhone 15 Prices and Availability\n7:13 iPhone 15 Pro Titanium\n10:56 iPhone 15 Pro Prices and Availability\n\nSubscribe to CNET: https://www.youtube.com/user/CNETTV\nNever miss a deal again! See CNET’s browser extension 👉 https://bit.ly/3lO7sOU\nCheck out CNET’s Amazon Storefront: https://www.amazon.com/shop/cnet\nFollow us on TikTok: https://www.tiktok.com/@cnetdotcom\nFollow us on Instagram: https://www.instagram.com/cnet/\nFollow us on Twitter: https://www.twitter.com/cnet\nLike us on Facebook: https://www.facebook.com/cnet\n\n#apple #applewatch #iphone15"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "53cnwph_g4bKnRgq_Pi24lhCD1w",
+      "id": "DIO5-BF8SzM",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:49:58Z",
+        "channelId": "UCurvRE5fGcdUgCYWgh-BDsg",
+        "title": "Logan Paul vs. Dillon Danis: Face Off",
+        "description": "Ahead of their much anticipated showdown on DAZN PPV, October 14, Logan Paul and Dillon Danis sat down face-to-face, in a fiery face off. This is the moment we have all been waiting for. The hate between these two is real and the X Series 10 card is surely going to be the most electric night in crossover boxing history\n\n#PaulDanis, #KSIFury #ThePrimeCard #XSeries10, #Boxing #DAZN\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\nSubscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/DIO5-BF8SzM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DAZN Boxing",
+        "tags": [
+          "dazn",
+          "boxing",
+          "highlights",
+          "ko",
+          "knockout",
+          "dazn boxing",
+          "Logan Paul",
+          "Logan",
+          "Dillon",
+          "Dillon Danis",
+          "Logan Paul vs Dillon Danis",
+          "Logan Paul vs",
+          "Dilon Danis",
+          "Logan Paul v Dillon Danis",
+          "Logan v Dillon",
+          "Logan Paul face off",
+          "Dillon Danis face off Logan v Danis face off",
+          "Paul v Danis",
+          "Nina Agdal",
+          "Dillon Nina",
+          "KSI",
+          "KSI Tommy Fury",
+          "Tommy Fury",
+          "KSI v Tommy Fury",
+          "Boxing",
+          "Logan Paul boxing",
+          "Dillon Danis Boxing",
+          "DAZN",
+          "DAZN X Series",
+          "Misfits",
+          "Misfits boxing",
+          "KSI Logan Paul",
+          "Jake Paul KSI v Logan Paul"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Logan Paul vs. Dillon Danis: Face Off",
+          "description": "Ahead of their much anticipated showdown on DAZN PPV, October 14, Logan Paul and Dillon Danis sat down face-to-face, in a fiery face off. This is the moment we have all been waiting for. The hate between these two is real and the X Series 10 card is surely going to be the most electric night in crossover boxing history\n\n#PaulDanis, #KSIFury #ThePrimeCard #XSeries10, #Boxing #DAZN\n\nSubscribe to our YouTube channel 👉  http://bit.ly/DAZNBoxingYouTube\nSubscribe to the DAZN X Series YouTube channel 👉 https://bit.ly/XSeriesYouTube \n\nDownload the DAZN app now 👉  http://bit.ly/DAZNYoutube\n\nFollow DAZN Boxing On Social Media 👇\nTwitter: https://www.twitter.com/DAZNBoxing\nInstagram: https://www.instagram.com/DAZNBoxing\nFacebook: https://www.facebook.com/DAZN\n\nThe DAZN Boxing Show ► https://bit.ly/3EQ70HN\nDAZN Rewind ► https://bit.ly/32iAaRT\n\n#DAZN #DAZNBoxing #Boxing"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GPkQMx27OFYFPOKFIrtWtSdQZL4",
+      "id": "-lxcK1wiMGM",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:53:20Z",
+        "channelId": "UCqMtxjKnR7ySbEZSs2N-v0Q",
+        "title": "Jets Fan Rich Eisen Likens Aaron Rodgers’ Achilles Injury to a Horror Movie | The Rich Eisen Show",
+        "description": "Jets fan Rich Eisen recounts his team’s long history of bad luck with the latest being the season-ending Achilles injury to Aaron Rodgers.\n\nTune in to the Emmy-nominated Rich Eisen Show live for FREE on The Roku Channel at https://go.roku.com/thericheisenshow and also streaming on Audacy, Sirius channel 218 and XM channel 202 weekdays from 12--3 PM ET! \n\nShowcasing insightful sports expertise with an offbeat mix of humor and pop culture, The Rich Eisen Show attracts the most recognizable names in sports and entertainment. \n\nSubscribe here to keep up with the internet's best sports and pop culture commentary, interviews, and much more! \n\n------ SUBSCRIBE HERE: \nhttps://bit.ly/2VjWSBC \n\nFOLLOW US HERE: \nhttps://www.instagram.com/richeisenshow/ \nhttps://www.twitter.com/RichEisenShow \nhttps://www.facebook.com/RichEisenShow \nhttps://www.tiktok.com/@thericheisenshow \nhttps://www.audacy.com/richeisen/listen \n\n#aaronrodgers  #nfl #newyorkjets",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-lxcK1wiMGM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Rich Eisen Show",
+        "tags": [
+          "Rich Eisen",
+          "Rich Eisen Show",
+          "sports",
+          "NFL",
+          "football",
+          "college football",
+          "CFP",
+          "pop culture",
+          "Roku",
+          "NFL Network",
+          "Super Bowl",
+          "Football",
+          "CFB",
+          "College Football",
+          "NFL Draft",
+          "Jets",
+          "New York",
+          "Zach Wilson",
+          "Aaron Rodgers",
+          "Aaron Rodgers Achilles",
+          "Dalvin Cook",
+          "Hard Knocks",
+          "Robert Saleh",
+          "Nathaniel Hackett",
+          "Sauce Gardner",
+          "Garrett Wilson",
+          "Joe Douglas",
+          "Breece Hall",
+          "Mekhi Becton",
+          "AFC East",
+          "Buffalo Bills",
+          "Miami Dolphins",
+          "Patriots",
+          "Rodgers injury",
+          "Favre",
+          "Vinny Testaverde",
+          "Belichick",
+          "Parcells"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Jets Fan Rich Eisen Likens Aaron Rodgers’ Achilles Injury to a Horror Movie | The Rich Eisen Show",
+          "description": "Jets fan Rich Eisen recounts his team’s long history of bad luck with the latest being the season-ending Achilles injury to Aaron Rodgers.\n\nTune in to the Emmy-nominated Rich Eisen Show live for FREE on The Roku Channel at https://go.roku.com/thericheisenshow and also streaming on Audacy, Sirius channel 218 and XM channel 202 weekdays from 12--3 PM ET! \n\nShowcasing insightful sports expertise with an offbeat mix of humor and pop culture, The Rich Eisen Show attracts the most recognizable names in sports and entertainment. \n\nSubscribe here to keep up with the internet's best sports and pop culture commentary, interviews, and much more! \n\n------ SUBSCRIBE HERE: \nhttps://bit.ly/2VjWSBC \n\nFOLLOW US HERE: \nhttps://www.instagram.com/richeisenshow/ \nhttps://www.twitter.com/RichEisenShow \nhttps://www.facebook.com/RichEisenShow \nhttps://www.tiktok.com/@thericheisenshow \nhttps://www.audacy.com/richeisen/listen \n\n#aaronrodgers  #nfl #newyorkjets"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EYJMS-glxQZ7KF1x9yYZ7Uc2Bcc",
+      "id": "Zk8DnHKqBRg",
+      "snippet": {
+        "publishedAt": "2023-09-12T03:38:37Z",
+        "channelId": "UCDVYQ4Zhbm3S2dlz7P1GBDg",
+        "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights",
+        "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Zk8DnHKqBRg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "NFL",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Buffalo Bills vs. New York Jets | 2023 Week 1 Game Highlights",
+          "description": "Check out our other channels:\nNFL Mundo https://www.youtube.com/mundonfl\nNFL Brasil https://www.youtube.com/c/NFLBrasilOficial\nNFL UK https://www.youtube.com/channel/UCVe0dAja_vZCmvfHXjtdRQA \nNFL Fantasy Football https://www.youtube.com/nflfantasyfootball\nNFL Play Football https://www.youtube.com/playfootball\nNFL Throwback http://www.youtube.com/nflvault\nNFL Films http://www.youtube.com/nflfilms\nNFL Network http://www.youtube.com/nflnetwork\n\n#NFL #Football #AmericanFootball"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "fIAEG2YBcrAxafvC72x85FA4-qU",
+      "id": "82DgSYIfmcE",
+      "snippet": {
+        "publishedAt": "2023-09-12T18:21:59Z",
+        "channelId": "UCsTcErHg8oDvUnTzoqsYeNw",
+        "title": "iPhone 15 and iPhone 15 Pro Colors (Mockups)",
+        "description": "iPhone 15, iPhone 15 Pro and iPhone 15 Pro Max are here. Which color will you choose?\nUpgrade your sleep, use Code: UNBOXTHERAPY for a discount on your Eightsleep Pod Cover Here: https://www.eightsleep.com/ca/unboxtherapy/\n\nLatercase - https://latercase.com/iphone\n\nThanks to Eightsleep for partnering on this video. \n\nThis video features iPhone 15 *Models* in Black, Blue, Pink, White and Yellow. This video features iPhone Pro *Models* in Black, Blue, White and Natural.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/82DgSYIfmcE/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Unbox Therapy",
+        "tags": [
+          "iphone 15",
+          "iphone 15 pro max",
+          "iphone 15 pro",
+          "iphone",
+          "apple",
+          "apple event",
+          "pro max",
+          "new iphone",
+          "iphone 15 vs",
+          "iphone 15 pro vs",
+          "iphone 15 review",
+          "iphone 15 hands on",
+          "iphone 15 unboxing",
+          "iphone 15 pro unboxing",
+          "iphone 15 pro max unboxing",
+          "unboxing",
+          "review",
+          "Apple Event - September 12",
+          "september 12",
+          "september",
+          "iphone 15 colors",
+          "iphone 15 pro colors",
+          "iphone 15 pink",
+          "iphone 15 white",
+          "iphone 15 black",
+          "iphone 15 blue",
+          "iphone 14",
+          "iphone 15 yellow",
+          "smartphone",
+          "smartphones",
+          "tech",
+          "technology"
+        ],
+        "categoryId": "28",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "iPhone 15 and iPhone 15 Pro Colors (Mockups)",
+          "description": "iPhone 15, iPhone 15 Pro and iPhone 15 Pro Max are here. Which color will you choose?\nUpgrade your sleep, use Code: UNBOXTHERAPY for a discount on your Eightsleep Pod Cover Here: https://www.eightsleep.com/ca/unboxtherapy/\n\nLatercase - https://latercase.com/iphone\n\nThanks to Eightsleep for partnering on this video. \n\nThis video features iPhone 15 *Models* in Black, Blue, Pink, White and Yellow. This video features iPhone Pro *Models* in Black, Blue, White and Natural.\n\nFOLLOW ME IN THESE PLACES FOR UPDATES\r\nTwitter - http://twitter.com/unboxtherapy\r\nFacebook - http://facebook.com/lewis.hilsenteger\r\nInstagram - http://instagram.com/unboxtherapy"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yeKUQ_ajDS4S6RLA2V5InOJ_Snk",
+      "id": "MdLcP8dJls4",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:00:20Z",
+        "channelId": "UCRXiA3h1no_PFkb1JCP0yMA",
+        "title": "Ariana Grande's Skin Care Routine & Guide to a ‘60s Cat Eye | Beauty Secrets | Vogue",
+        "description": "Multi-hyphenate megastar Ariana Grande walks us through her beauty routine, from radiance-boosting skin care to retro-style makeup. The Grammy-winning songwriter talks about her humble beginnings in family theater, her time as a guest judge on Ru Paul’s Drag Race and how makeup pioneers Audrey Hepburn and Marilyn Monroe helped inspire her own style.\r\n\r\nShop this beauty routine:\r\n\r\nLa Mer The Moisturizing Soft Cream Moisturizer: https://tinyurl.com/5n8r8czk\r\nUltaMD UV Clear Broad Spectrum SPF 46 Face Sunscreen: https://howl.me/ckzbpJmeyDr\r\nr.e.m. beauty Full Night's Sleep Cooling Blurring Undereye Balm: https://tinyurl.com/2p92nhvp\r\nShiseido Benefiance Wrinkle Resist 24 Pure Retinol Express Soothing Eye Mask: https://tinyurl.com/3efrs625\r\nr.e.m. beauty Sweetener Foundation: https://tinyurl.com/39hujw59\r\nr.e.m. beauty Sweetener Concealer: https://tinyurl.com/4zbe52mv\r\nAnastasia Beverly Hills Loose Setting Powder: https://tinyurl.com/3bu6hb4y\r\nMAC Eye Brows Styler: https://tinyurl.com/3btj8jxu\r\nDanessa Myrics Beauty Balm Contour: https://tinyurl.com/2p9dtsx5\r\nr.e.m. beauty Interstellar Highlighter Topper: https://tinyurl.com/jnbckppx\r\nBobbi Brown All Nudes Eye Shadow Palette: https://tinyurl.com/whrf352y\r\nr.e.m. beauty Multi-Use Eye Stick: https://tinyurl.com/4rtbj4bs\r\nDior Rosy Glow Blush: https://tinyurl.com/yavwawfw\r\nr.e.m. beauty Flourishing Volumizing Mascara: https://tinyurl.com/3jmh69s7\r\nr.e.m. beauty Practically Permanent Lip Stain Marker: https://tinyurl.com/y2btfndm\r\nLancôme Juicy Tubes Lip Gloss: https://tinyurl.com/yxxunsnr\r\nr.e.m. beauty On Your Collar Plumping Lip Gloss: https://tinyurl.com/yc6hfr3y\r\nr.e.m. beauty Mod Vanilla Eau de Parfum: https://tinyurl.com/yc78xhjj\r\nRhode Peptide Lip Treatment: https://tinyurl.com/34py9bcn\r\nCharlotte Tilbury Rock 'N' Kohl Bedroom Black Eyeliner: https://tinyurl.com/wa58wxuy\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\n\r\nDirector: Gabrielle Reich\r\nDP: Alex Hass\r\nEditor: Michael Suyeda\r\n\r\nAssociate Producer: Lea Donenberg\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Supervisor: Edward Taylor\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Lauren Worona\r\nFilmed at: The William Vale\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/MdLcP8dJls4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Vogue",
+        "tags": [
+          "ari",
+          "ariana crying",
+          "ariana grande",
+          "ariana grande beauty",
+          "ariana grande beauty secrets",
+          "ariana grande beauty secrets routine",
+          "ariana grande beauty standards",
+          "ariana grande cry",
+          "ariana grande emotional",
+          "ariana grande eye patches",
+          "ariana grande gets emotional",
+          "ariana grande gets ready",
+          "ariana grande getting ready",
+          "ariana grande getting ready routine",
+          "ariana grande makeup routine vogue",
+          "beauty",
+          "celebrity",
+          "emotional ariana grande video",
+          "how to",
+          "vogue",
+          "vogue ariana grande"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Ariana Grande's Skin Care Routine & Guide to a ‘60s Cat Eye | Beauty Secrets | Vogue",
+          "description": "Multi-hyphenate megastar Ariana Grande walks us through her beauty routine, from radiance-boosting skin care to retro-style makeup. The Grammy-winning songwriter talks about her humble beginnings in family theater, her time as a guest judge on Ru Paul’s Drag Race and how makeup pioneers Audrey Hepburn and Marilyn Monroe helped inspire her own style.\r\n\r\nShop this beauty routine:\r\n\r\nLa Mer The Moisturizing Soft Cream Moisturizer: https://tinyurl.com/5n8r8czk\r\nUltaMD UV Clear Broad Spectrum SPF 46 Face Sunscreen: https://howl.me/ckzbpJmeyDr\r\nr.e.m. beauty Full Night's Sleep Cooling Blurring Undereye Balm: https://tinyurl.com/2p92nhvp\r\nShiseido Benefiance Wrinkle Resist 24 Pure Retinol Express Soothing Eye Mask: https://tinyurl.com/3efrs625\r\nr.e.m. beauty Sweetener Foundation: https://tinyurl.com/39hujw59\r\nr.e.m. beauty Sweetener Concealer: https://tinyurl.com/4zbe52mv\r\nAnastasia Beverly Hills Loose Setting Powder: https://tinyurl.com/3bu6hb4y\r\nMAC Eye Brows Styler: https://tinyurl.com/3btj8jxu\r\nDanessa Myrics Beauty Balm Contour: https://tinyurl.com/2p9dtsx5\r\nr.e.m. beauty Interstellar Highlighter Topper: https://tinyurl.com/jnbckppx\r\nBobbi Brown All Nudes Eye Shadow Palette: https://tinyurl.com/whrf352y\r\nr.e.m. beauty Multi-Use Eye Stick: https://tinyurl.com/4rtbj4bs\r\nDior Rosy Glow Blush: https://tinyurl.com/yavwawfw\r\nr.e.m. beauty Flourishing Volumizing Mascara: https://tinyurl.com/3jmh69s7\r\nr.e.m. beauty Practically Permanent Lip Stain Marker: https://tinyurl.com/y2btfndm\r\nLancôme Juicy Tubes Lip Gloss: https://tinyurl.com/yxxunsnr\r\nr.e.m. beauty On Your Collar Plumping Lip Gloss: https://tinyurl.com/yc6hfr3y\r\nr.e.m. beauty Mod Vanilla Eau de Parfum: https://tinyurl.com/yc78xhjj\r\nRhode Peptide Lip Treatment: https://tinyurl.com/34py9bcn\r\nCharlotte Tilbury Rock 'N' Kohl Bedroom Black Eyeliner: https://tinyurl.com/wa58wxuy\r\n\r\n\r\nShop more Beauty Secrets favorites below:\r\n\r\nChanel Vitalumière Radiant, Moisture-Rich Fluid Foundation: https://shop-links.co/chBzLvwixBO\r\nKosas Cloud Set Setting Powder: https://shop-links.co/chBzLQyzJ5S\r\nDieux Skin Forever Eye Masks: https://fave.co/3Pb2Yyu\r\nSaie Hydrabeam Concealer: https://shop-links.co/chBzL0XWkaP\r\nDroplette Microinfusion Device: https://bit.ly/3upy9yn\r\n\r\n\r\nWhen you buy something through our retail links, we earn an affiliate commission.\r\n\r\n\r\nDirector: Gabrielle Reich\r\nDP: Alex Hass\r\nEditor: Michael Suyeda\r\n\r\nAssociate Producer: Lea Donenberg\r\nProduction Manager: Kit Fogarty\r\nProduction Coordinator: Ava Kashar\r\nEntertainment Director, Vogue: Sergio Kletnoy\r\n\r\nPost Production Supervisor: Edward Taylor\r\nPost Production Coordinator: Jovan James\r\nSupervising Editor: Kameron Key\r\nAssistant Editor: Lauren Worona\r\nFilmed at: The William Vale\n\nStill haven’t subscribed to Vogue on YouTube? ►► http://bit.ly/vogueyoutubesub\r\nGet the best of Vogue delivered right in your inbox ►► https://bit.ly/3xAZyQg\r\nWant to hear more from our editors? Subscribe to the magazine ►► http://bit.ly/2wXh1VW\r\nCheck out our new podcast 'In Vogue: The 1990s'  ►► https://link.chtbl.com/iv-yt-description\r\n \r\nABOUT VOGUE\r\nVogue is the authority on fashion news, culture trends, beauty coverage, videos, celebrity style, and fashion week updates."
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "eVEfUdUp79st9WgvF2PKKl36mjs",
+      "id": "6tNXfybdZ5s",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:23:01Z",
+        "channelId": "UCiWLfSweyRNmLpgEHekhoAg",
+        "title": "🚨 BREAKING 🚨 Stephen A. & Shannon Sharpe react to Aaron Rodgers’ season being over | First Take",
+        "description": "On First Take, Stephen A. Smith, Pat McAfee and Shannon Sharpe react to the breaking news that Aaron Rodgers’ season is officially over, per Adam Schefter’s reports.\n#ESPN #FirstTake #StephenA #ShannonSharpe \r\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/6tNXfybdZ5s/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          }
+        },
+        "channelTitle": "ESPN",
+        "tags": [
+          "Stephen A. Smith",
+          "Stephen A. Smith First Take",
+          "Stephen A Smith",
+          "Stephen A Smith First Take",
+          "First Take",
+          "Shannon Sharpe",
+          "Shannon Sharpe First Take",
+          "Shannon Sharpe vs Stephen A. Smith",
+          "Stephen a smith first take",
+          "Stephen a first take",
+          "shannon Sharpe first take",
+          "first take Stephen a",
+          "first take shannon Sharpe",
+          "aaron rodgers breaking news",
+          "NFL on ESPN",
+          "aaron rodgers out",
+          "aaron rodgers injury",
+          "aaron rodgers out for season",
+          "aaron rodgers jets",
+          "pat mcafee",
+          "pat mcafee first take"
+        ],
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "🚨 BREAKING 🚨 Stephen A. & Shannon Sharpe react to Aaron Rodgers’ season being over | First Take",
+          "description": "On First Take, Stephen A. Smith, Pat McAfee and Shannon Sharpe react to the breaking news that Aaron Rodgers’ season is officially over, per Adam Schefter’s reports.\n#ESPN #FirstTake #StephenA #ShannonSharpe \r\n\n✔️Subscribe to ESPN+ http://espnplus.com/youtube\n✔️ Get the ESPN App: http://www.espn.com/espn/apps/espn\n✔️Subscribe to ESPN on YouTube: http://es.pn/SUBSCRIBEtoYOUTUBE\n✔️ Subscribe to NBA on ESPN on YouTube: http://bit.ly/SUBSCRIBEtoNBAonESPN\n✔️ Watch ESPN on YouTube TV: http://es.pn/YouTubeTV"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "SXCr7SCghLHt05g9Henj4CrqkqU",
+      "id": "Uj_ZfSyA1Z4",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:00:22Z",
+        "channelId": "UCvAhDxNNUDhi78tMXVGBUaQ",
+        "title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 9",
+        "description": "Get addicted to water while experiencing flavor in a new way with air up today!►https://airup.link/46bfFSJ \nThanks to Air Up for sponsoring this video!\n--------------------------------------------------------------------\nThanks to Paint Society!►https://www.youtube.com/@PaintSociety\nThanks to Rich Rebuilds!►https://www.youtube.com/@RichRebuilds\nThanks to Jay Leno's Garage!►https://www.youtube.com/@jaylenosgarage\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Uj_ZfSyA1Z4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Tavarish",
+        "tags": [
+          "aston martin",
+          "mercedes",
+          "amg",
+          "hyundai",
+          "bmw",
+          "lamborghini",
+          "ferrari",
+          "toyota",
+          "supra",
+          "mr2",
+          "sw20",
+          "3sgte",
+          "2jz",
+          "1jz",
+          "sl55",
+          "r230",
+          "r231",
+          "m113k",
+          "vantage",
+          "v8",
+          "v12",
+          "v10",
+          "v6",
+          "gallardo",
+          "turbo",
+          "cheap",
+          "budget",
+          "diy",
+          "wrench everyday",
+          "doug demuro",
+          "chrisfix",
+          "hoovies garage",
+          "tavarish",
+          "jalopnik",
+          "mightycarmods",
+          "motor trend",
+          "roadkill",
+          "hack",
+          "bendpak",
+          "tools",
+          "lift",
+          "4 post",
+          "2 post",
+          "quick jack",
+          "welding",
+          "how to",
+          "tutorial"
+        ],
+        "categoryId": "2",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Rebuilding A Flooded $2,000,000 McLaren P1 | Part 9",
+          "description": "Get addicted to water while experiencing flavor in a new way with air up today!►https://airup.link/46bfFSJ \nThanks to Air Up for sponsoring this video!\n--------------------------------------------------------------------\nThanks to Paint Society!►https://www.youtube.com/@PaintSociety\nThanks to Rich Rebuilds!►https://www.youtube.com/@RichRebuilds\nThanks to Jay Leno's Garage!►https://www.youtube.com/@jaylenosgarage\n--------------------------------------------------------------------\nSubscribe! ►http://bit.ly/2xZGtYN\nInstagram ►https://www.instagram.com/therealtavarish\nTavarish Shirts and Merch! ►http://bit.ly/shoptavarish\n--------------------------------------------------------------------\nThanks to the companies that support this channel!\nValvoline - The Original Motor Oil►https://www.valvoline.com/\nFind your dream car on AutoTempest!►https://bit.ly/foundonautotempest\n--------------------------------------------------------------------\nQuestions? Comments? Business inquiries? Email me at asktavarish@gmail.com\n--------------------------------------------------------------------\nMy Equipment: \nSimiron Epoxy Floor Coating►https://simiron.com\nBendpak Lifts and Equipment►https://bendpak.com\n--------------------------------------------------------------------\nMusic used in this video:\nNIVIRO - You [NCS Release]►https://www.youtube.com/watch?v=2Nv5juZKhKo\n\nMalik Bash - Ghosts [NCS Release]►https://www.youtube.com/watch?v=-9Z5Nhsm7GA"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "EffPVnCKgVexY5zhkmPYS7xD4zE",
+      "id": "4Stzj2_Rlo4",
+      "snippet": {
+        "publishedAt": "2023-09-12T14:00:06Z",
+        "channelId": "UCsXVk37bltHxD1rDPwtNM8Q",
+        "title": "You're a Dream of the Universe (According to Science)",
+        "description": "To get started planning a fulfilling career that does a lot of good, go to https://80000hours.org/kurzgesagt for your free career guide.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-boltzmannbrain/startseite?authuser=2\n\nAbsolutely everything you think about yourself and the universe could be an illusion. As far as you know, you are real and exist in a universe that was born 14 billion years ago and that gave rise to galaxies, stars, the Earth, and finally you. Except, maybe not.\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/44HSBtH \nBandcamp: https://bit.ly/3RkSOjh\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nRebecca Lin, 金山俊　那須, Britnei Tweedy, Ryan, 슝 김, Tyler, Kathi, Ivan Milani, Rico Aarntzen, Nikita Khlebushkin, Christopher Kyle Horton, Valentin Binotto, Nico Riemann, Jesse Plung, Timothy Dooley, Yasheen Sewnarain, saif samer, Taki Reizen, Dragon force Secret art, Jasper Narvil, Alexander Rajaković, TheDoxy, Martijn Gerritsen, Bogdan, Manuel Berdin, Karen Epstein, Sinjid, Peyton, Adi Wabisabi, Infinitae Aetas, Ruben Iusim, febilly, Reyansh Baralay, Ecunna Versity, Stefan Mermans, Nicholas Fernald, Enrique Gonzalez, Jimmy W, Andrew Keenan Richardson, DeMar M., Jordan, chrisby, Niklas Sommer, Kathi, Jakob, Christina Woodbury, Scientist Keo, Dante Jerlich, NekuSoul, Frivack, Adrian, Robin Z., Zeal, MontanaMonarch, Matthew Watson, 민호 김, Mason Edmonds, Nils Hegenbart, Snail, Israel, Ariel Grucza, The Awkward Yeti, Don B, Andreas Andreas, Xeovis",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/4Stzj2_Rlo4/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Kurzgesagt – In a Nutshell",
+        "categoryId": "27",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en-GB",
+        "localized": {
+          "title": "You're a Dream of the Universe (According to Science)",
+          "description": "To get started planning a fulfilling career that does a lot of good, go to https://80000hours.org/kurzgesagt for your free career guide.\n\nSources & further reading:\nhttps://sites.google.com/view/sources-boltzmannbrain/startseite?authuser=2\n\nAbsolutely everything you think about yourself and the universe could be an illusion. As far as you know, you are real and exist in a universe that was born 14 billion years ago and that gave rise to galaxies, stars, the Earth, and finally you. Except, maybe not.\n\nOUR CHANNELS\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nGerman:        https://kgs.link/youtubeDE\nSpanish:        https://kgs.link/youtubeES\nFrench:          https://kgs.link/youtubeFR\nPortuguese:  https://kgs.link/youtubePT\nArabic:           https://kgs.link/youtubeAR\nHindi:             https://kgs.link/youtubeHI\nJapanese:     https://kgs.link/youtubeJA\nKorean:          https://kgs.link/youtubeKO\n\n\nHOW CAN YOU SUPPORT US?\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThis is how we make our living and it would be a pleasure if you support us!\n\nGet Products designed with ❤ https://shop-us.kurzgesagt.org  \nJoin the Patreon Bird Army 🐧  https://kgs.link/patreon  \n\n\nDISCUSSIONS & SOCIAL MEDIA\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nTikTok:           https://kgs.link/tiktok\nReddit:            https://kgs.link/reddit\nInstagram:     https://kgs.link/instagram\nTwitter:           https://kgs.link/twitter\nFacebook:      https://kgs.link/facebook\nDiscord:          https://kgs.link/discord\nNewsletter:    https://kgs.link/newsletter\n\n\nOUR VOICE\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nThe Kurzgesagt voice is from \nSteve Taylor:  https://kgs.link/youtube-voice\n\n\nOUR MUSIC ♬♪\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\n700+ minutes of Kurzgesagt Soundtracks by Epic Mountain:\n\nSpotify:            https://kgs.link/music-spotify\nSoundcloud:   https://kgs.link/music-soundcloud\nBandcamp:     https://kgs.link/music-bandcamp\nYoutube:          https://kgs.link/music-youtube\nFacebook:       https://kgs.link/music-facebook\n\nThe Soundtrack of this video:\nSoundcloud: https://bit.ly/44HSBtH \nBandcamp: https://bit.ly/3RkSOjh\n\nIf you want to help us caption this video, please send subtitles to subtitle@kurzgesagt.org\nYou can find info on what subtitle files work on YouTube here:\nhttps://support.google.com/youtube/answer/2734698?hl=en-GB&ref_topic=7296214\nThank you!\n\n🐦🐧🐤 PATREON BIRD ARMY 🐤🐧🐦\n▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀\nMany Thanks to our wonderful Patreons (from http://kgs.link/patreon) who support us every month and made this video possible:\nRebecca Lin, 金山俊　那須, Britnei Tweedy, Ryan, 슝 김, Tyler, Kathi, Ivan Milani, Rico Aarntzen, Nikita Khlebushkin, Christopher Kyle Horton, Valentin Binotto, Nico Riemann, Jesse Plung, Timothy Dooley, Yasheen Sewnarain, saif samer, Taki Reizen, Dragon force Secret art, Jasper Narvil, Alexander Rajaković, TheDoxy, Martijn Gerritsen, Bogdan, Manuel Berdin, Karen Epstein, Sinjid, Peyton, Adi Wabisabi, Infinitae Aetas, Ruben Iusim, febilly, Reyansh Baralay, Ecunna Versity, Stefan Mermans, Nicholas Fernald, Enrique Gonzalez, Jimmy W, Andrew Keenan Richardson, DeMar M., Jordan, chrisby, Niklas Sommer, Kathi, Jakob, Christina Woodbury, Scientist Keo, Dante Jerlich, NekuSoul, Frivack, Adrian, Robin Z., Zeal, MontanaMonarch, Matthew Watson, 민호 김, Mason Edmonds, Nils Hegenbart, Snail, Israel, Ariel Grucza, The Awkward Yeti, Don B, Andreas Andreas, Xeovis"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "uvJiusgZVzNLkEfOr1eSALJ4QjY",
+      "id": "sIh9_cNCwPc",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:00:04Z",
+        "channelId": "UC3IZKseVpdzPSBaWxBxundA",
+        "title": "V 'Blue' Official MV",
+        "description": "V 'Blue' Official MV\n\n'Layover' Release\n💽 https://ingrv.es/layover\n\nCredits:\nProducer: MIN HEE JIN\nMusic Video Director: Shin Dongle\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers\nhttp://btsblog.ibighit.com\n\n#V #뷔 #V_Layover",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sIh9_cNCwPc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sIh9_cNCwPc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sIh9_cNCwPc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sIh9_cNCwPc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sIh9_cNCwPc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "HYBE LABELS",
+        "tags": ["HYBE", "HYBE LABELS", "하이브", "하이브레이블즈"],
+        "categoryId": "10",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "V 'Blue' Official MV",
+          "description": "V 'Blue' Official MV\n\n'Layover' Release\n💽 https://ingrv.es/layover\n\nCredits:\nProducer: MIN HEE JIN\nMusic Video Director: Shin Dongle\n\nBIGHIT MUSIC. Rights are reserved selectively in the video. Unauthorized reproduction is a violation of applicable laws. Manufactured by BIGHIT MUSIC, Seoul, Korea.\n\nConnect with BTS:\nhttps://ibighit.com/bts\nhttp://twitter.com/BTS_bighit\nhttp://twitter.com/BTS_twt\nhttp://www.facebook.com/bangtan.official\nhttps://www.youtube.com/user/BANGTANTV\nhttp://instagram.com/BTS.bighitofficial\nhttps://www.tiktok.com/@bts_official_bighit\nhttps://weverse.onelink.me/qt3S/94808190\nhttps://www.weibo.com/BTSbighit\nhttps://www.weibo.com/BTSmembers\nhttp://btsblog.ibighit.com\n\n#V #뷔 #V_Layover"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "y_xMHX2oWW-g5_ZYsXxqNykzcls",
+      "id": "sNF1CY9nwyY",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:00:49Z",
+        "channelId": "UC0tRBW_o6oIXSLO3SV6ggJQ",
+        "title": "Why I Left Try Guys",
+        "description": "After 5 years at the Try Guys as their PA, cinematographer, podcast producer, and muse, it is time for me to try something new. \n\nI'm psyched for this next phase of making stuff and I hope you come back to watch me press go on the camera and make a silly little video!!!\n\nIf you want to work together, please email perfectdigitalconsulting@gmail.com\n\n• Check Out My Other Stuff: https://linktr.ee/milesbon\n• Listen To My Podcast: @PerfectPerson \n• Subscribe To The Perfect Person Patreon!: https://bit.ly/PPPTRN\n      -Ad-free extended episodes, Platinum Exclusive Episodes, ultimate perfection)\n\n• Follow Me On Instagram: https://bit.ly/MBonstagram",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/sNF1CY9nwyY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/sNF1CY9nwyY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/sNF1CY9nwyY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/sNF1CY9nwyY/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/sNF1CY9nwyY/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Miles Bonsignore",
+        "tags": [
+          "Miles Bonsignore",
+          "Advice that will go for miles",
+          "perfect person",
+          "try guys",
+          "why i left buzzfeed",
+          "try guys scandal",
+          "advice",
+          "call in advice",
+          "miles",
+          "podcast producer",
+          "try guys staff",
+          "try staff",
+          "youtuber",
+          "perfect digital",
+          "candid competition",
+          "leaves try guys",
+          "miles nation",
+          "trypod"
+        ],
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Why I Left Try Guys",
+          "description": "After 5 years at the Try Guys as their PA, cinematographer, podcast producer, and muse, it is time for me to try something new. \n\nI'm psyched for this next phase of making stuff and I hope you come back to watch me press go on the camera and make a silly little video!!!\n\nIf you want to work together, please email perfectdigitalconsulting@gmail.com\n\n• Check Out My Other Stuff: https://linktr.ee/milesbon\n• Listen To My Podcast: @PerfectPerson \n• Subscribe To The Perfect Person Patreon!: https://bit.ly/PPPTRN\n      -Ad-free extended episodes, Platinum Exclusive Episodes, ultimate perfection)\n\n• Follow Me On Instagram: https://bit.ly/MBonstagram"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "GOYVY2xvMxlrqvhnlPZV7yUTkbk",
+      "id": "ASHKCodZxew",
+      "snippet": {
+        "publishedAt": "2023-09-11T22:10:02Z",
+        "channelId": "UC4G10tk3AHFuyMIuD3rHOBA",
+        "title": "HOW THE NEW AVENGERS ARE GONNA BE WITH ANY THREAT | RDC TV",
+        "description": "Timestamps:\n0:17 How Some Female Rappers Be On Every Song\n3:37 How Players From Certain Sports Get Treated\n6:08 When a Quarterback Has a Favorite Receiver\n8:08 How the New Avengers are gonna be with Any Threat\n\nSpecial thanks to @avirgoat for helping!\n\n🌎RDC's SOCIALS🌎\nMark - @SupremeDreams_1\nAff - @Affiong\nLeland - @23_Is_Leland\nDylan - @DylanPatel4_\nDesmond - @l0v3andPeac3\nBenjamin - @Ive_Ben_Jammin\nJohn - @PlayThatJohn\n\nEARLY RELEASES DROPPING HERE: https://www.rdcuniverse.com/\nFREE 7-DAY TRIAL\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com\n🎮 GAMING CHANNEL: https://www.youtube.com/@RDCWorldGaming\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n🎙️ PODCAST: https://linktr.ee/rdcworld\n💜 DISCORD: https://discord.gg/rdcworld1\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ASHKCodZxew/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ASHKCodZxew/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ASHKCodZxew/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ASHKCodZxew/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ASHKCodZxew/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "RDCworld1",
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "HOW THE NEW AVENGERS ARE GONNA BE WITH ANY THREAT | RDC TV",
+          "description": "Timestamps:\n0:17 How Some Female Rappers Be On Every Song\n3:37 How Players From Certain Sports Get Treated\n6:08 When a Quarterback Has a Favorite Receiver\n8:08 How the New Avengers are gonna be with Any Threat\n\nSpecial thanks to @avirgoat for helping!\n\n🌎RDC's SOCIALS🌎\nMark - @SupremeDreams_1\nAff - @Affiong\nLeland - @23_Is_Leland\nDylan - @DylanPatel4_\nDesmond - @l0v3andPeac3\nBenjamin - @Ive_Ben_Jammin\nJohn - @PlayThatJohn\n\nEARLY RELEASES DROPPING HERE: https://www.rdcuniverse.com/\nFREE 7-DAY TRIAL\n\n🌎 REAL DREAMS CHANGE THE WORLD 🌎\n🗣️ TWITTER: https://twitter.com/RDCworld1\n📷 IG: https://www.instagram.com/rdcworld1/\n👔 MERCH: https://rdcworld1.com\n🎮 GAMING CHANNEL: https://www.youtube.com/@RDCWorldGaming\n👾 TWITCH: https://www.twitch.tv/rdcgaming\n🎙️ PODCAST: https://linktr.ee/rdcworld\n💜 DISCORD: https://discord.gg/rdcworld1\n☁️ DREAM CON: https://www.dreamconvention.com\n🎵 SOUNDCLOUD: https://soundcloud.com/rdcworld"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "HbuG8adoLNfqyLiudE3ps8YGeBk",
+      "id": "-_4QgarTvtg",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:00:00Z",
+        "channelId": "UCCOSYITWQHRSUxvlQ4_PSCg",
+        "title": "Sonic Frontiers - Into the Horizon",
+        "description": "What cyber threats await our heroes in Sonic Frontiers' Final Horizon update? \n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://twitter.com/sonic_hedgehog\nhttps://facebook.com/sonic\nhttps://instagram.com/sonicthehedgehog\nhttps://tiktok.com/@sonic_hedgehog",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-_4QgarTvtg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-_4QgarTvtg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-_4QgarTvtg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-_4QgarTvtg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-_4QgarTvtg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Sonic the Hedgehog",
+        "tags": ["sonic", "sonic the hedgehog"],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Sonic Frontiers - Into the Horizon",
+          "description": "What cyber threats await our heroes in Sonic Frontiers' Final Horizon update? \n\nCheck out our other social pages to stay up to date on the latest Sonic happenings:\n\nhttps://twitter.com/sonic_hedgehog\nhttps://facebook.com/sonic\nhttps://instagram.com/sonicthehedgehog\nhttps://tiktok.com/@sonic_hedgehog"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "6H_dg6aZt_IsG15TrJG0Z3PoQaE",
+      "id": "22V3rKriX60",
+      "snippet": {
+        "publishedAt": "2023-09-11T17:00:12Z",
+        "channelId": "UCB9_VH_CNbbH4GfKu8qh63w",
+        "title": "Bill Cipher VS Discord (Gravity Falls VS My Little Pony) | DEATH BATTLE!",
+        "description": "Chaos battles weirdness in this insane animation!\n\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n\n► Download the DraftKings Sportsbook app and use code DEATH to sign up.\nNew customers can bet just $5 and take home $200 in bonus bets\ninstantly.\nGambling problem? Call 1-800-Gambler or visit\nhttp://www.1800gambler.net In New York, call 877-8-HOPENY or text\nHOPENY (467369). In Connecticut, Help is available for problem gambling\ncall 888-789-7777 or visit http://ccpg.org. Please play responsibly. On\nbehalf of Boot Hill Casino & Resort (KS). 21 + age varies by jurisdiction.\nVoid in ONT. See http://sportsbook.draftkings.com/footballterms for\neligibility, terms and responsible gaming resources. Bonus bets expire\nseven days after issuance. Eligibility and deposit restrictions apply.\n\n►  \"Discordant Decipher: JpavhojFskypld\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \nGuest Instrumentals by Infotron\nAdditional Vocals by Mr. Goatee\n► Stream on Spotify: https://open.spotify.com/track/25Hxlqx6FFMgk1swN0YMNL?si=13e2290091b24bc2\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/22V3rKriX60/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/22V3rKriX60/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/22V3rKriX60/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/22V3rKriX60/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/22V3rKriX60/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "DEATH BATTLE!",
+        "tags": [
+          "DEATH BATTLE",
+          "Rooster Teeth",
+          "RT",
+          "DBX",
+          "screwattack",
+          "death battle",
+          "rooster teeth",
+          "deathbattle",
+          "death battle cast",
+          "ben singer",
+          "chad james",
+          "animation",
+          "sprite animation",
+          "animated fight",
+          "animated battle",
+          "who would win",
+          "2D animation",
+          "my little pony",
+          "gravity falls",
+          "mylittlepony",
+          "gravityfalls",
+          "MLP",
+          "friendship is magic",
+          "FIM",
+          "Lauren Faust",
+          "John de Lancie",
+          "Star Trek",
+          "Alex Hirsch",
+          "Dipper",
+          "Mabel",
+          "Twilight Sparkle",
+          "Rainbow Dash",
+          "Rarity",
+          "Luis Cruz",
+          "Equestria",
+          "unicorn",
+          "alicorn",
+          "pegasus",
+          "wierdness"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Bill Cipher VS Discord (Gravity Falls VS My Little Pony) | DEATH BATTLE!",
+          "description": "Chaos battles weirdness in this insane animation!\n\n►This episode is sponsored by BetterHelp — go to http://betterhelp.com/deathbattle to get 10% off your first month.\n\n► Download the DraftKings Sportsbook app and use code DEATH to sign up.\nNew customers can bet just $5 and take home $200 in bonus bets\ninstantly.\nGambling problem? Call 1-800-Gambler or visit\nhttp://www.1800gambler.net In New York, call 877-8-HOPENY or text\nHOPENY (467369). In Connecticut, Help is available for problem gambling\ncall 888-789-7777 or visit http://ccpg.org. Please play responsibly. On\nbehalf of Boot Hill Casino & Resort (KS). 21 + age varies by jurisdiction.\nVoid in ONT. See http://sportsbook.draftkings.com/footballterms for\neligibility, terms and responsible gaming resources. Bonus bets expire\nseven days after issuance. Eligibility and deposit restrictions apply.\n\n►  \"Discordant Decipher: JpavhojFskypld\" - Battle Music\nSubscribe to Brandon Yates on YT: @BrandonYates \nGuest Instrumentals by Infotron\nAdditional Vocals by Mr. Goatee\n► Stream on Spotify: https://open.spotify.com/track/25Hxlqx6FFMgk1swN0YMNL?si=13e2290091b24bc2\n\nGet extra perks as a Death Battle Member! https://www.youtube.com/deathbattle/join\n\nOFFICIAL DEATH BATTLE SUGGESTION FORM: http://bit.ly/DBRequestForm\nClick to SUBSCRIBE: http://bit.ly/SubToDeathBattle\n\n►Our Twitter: https://twitter.com/DEATHBATTLE\n►Our Store: http://bit.ly/DeathBattleStore\n►Watch our stuff early: http://bit.ly/2m9WLsZ\n\n►Follow the hosts on Twitter:\nBen - https://twitter.com/BenBSinger\nChad - https://twitter.com/ChadJamesRT"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "IXfndvHwGwiO5Mm31EQDILotM8U",
+      "id": "tQd2AfNHjrc",
+      "snippet": {
+        "publishedAt": "2023-09-12T16:15:32Z",
+        "channelId": "UCE5mQnNl8Q4H2qcv4ikaXeA",
+        "title": "The Kardashians | Season 4 | Official Trailer | Hulu",
+        "description": "The cameras are back with all access to the personal and private lives of Kris, Kourtney, Kim, Khloé, Kendall and Kylie. From second chances and new beginnings to unexpected blessings, they continue to bare it all together, a reminder that the most beautiful part of life is family. Season 4 of The Kardashians premieres September 28 on Hulu.\n\nABOUT THE KARDASHIANS\nThe family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.\n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confi\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit Hulu.com to subscribe now.\n\n#hulu #disney #thekardashians \n\nThe Kardashians | Season 4 | Official Trailer | Hulu\nhttps://youtu.be/tQd2AfNHjrc",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tQd2AfNHjrc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tQd2AfNHjrc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tQd2AfNHjrc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/tQd2AfNHjrc/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/tQd2AfNHjrc/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Hulu",
+        "tags": [
+          "hulu",
+          "disney",
+          "hulu movies",
+          "hulu shows",
+          "Disney+",
+          "hulu originals",
+          "hulu original",
+          "hulu original show",
+          "The Kardashians hulu",
+          "The Kardashians on hulu",
+          "The Kardashians hulu original show",
+          "The Kardashians season 4 trailer",
+          "season 4",
+          "The Kardashians season 4",
+          "The Kardashians",
+          "Official Trailer",
+          "Kris",
+          "Kourtney",
+          "Kim",
+          "Khloé",
+          "Kendall",
+          "Kylie",
+          "Kardashian family",
+          "season 4 trailer",
+          "hulu official trailer",
+          "the kardashains official trailer",
+          "Kardashian-Jenner family",
+          "hulu the kardashians",
+          "reality series"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "The Kardashians | Season 4 | Official Trailer | Hulu",
+          "description": "The cameras are back with all access to the personal and private lives of Kris, Kourtney, Kim, Khloé, Kendall and Kylie. From second chances and new beginnings to unexpected blessings, they continue to bare it all together, a reminder that the most beautiful part of life is family. Season 4 of The Kardashians premieres September 28 on Hulu.\n\nABOUT THE KARDASHIANS\nThe family you know and love is here with a brand new series, giving an all-access pass into their lives. Kris, Kourtney, Kim, Khloé, Kendall, and Kylie bring the cameras back to reveal the truth behind the headlines. From the intense pressures of running billion-dollar businesses to the hilarious joys of playtime and school drop-offs, this series brings viewers into the fold with a rivetingly honest story of love & life in the spotlight.\n\nSUBSCRIBE TO HULU’S YOUTUBE CHANNEL\nClick the link to subscribe to our channel for the latest shows & updates: http://www.youtube.com/hulu?sub_confi\n\nSTART YOUR FREE TRIAL \nhttp://hulu.com/start \n\nFOLLOW US ON SOCIAL\nInstagram: https://www.instagram.com/hulu/ \nHulu on Twitter: https://twitter.com/hulu\nFacebook: https://www.facebook.com/hulu\n\nABOUT HULU\nHulu is the leading all-in-one premium streaming service that offers an expansive slate of live and on-demand entertainment, both in and outside the home. Hulu is the only on-demand platform that provides access to a library of both hit TV Series/Films and award-winning Hulu Originals like Only Murders In The Building, The Handmaid’s Tale, The Kardashians, and more! Visit Hulu.com to subscribe now.\n\n#hulu #disney #thekardashians \n\nThe Kardashians | Season 4 | Official Trailer | Hulu\nhttps://youtu.be/tQd2AfNHjrc"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "UppmNxoA60wd7FlpLo_kzN2kK-8",
+      "id": "JGit-i5jI2A",
+      "snippet": {
+        "publishedAt": "2023-09-12T02:00:08Z",
+        "channelId": "UCMUu7nPaq5CIh6ul361bDzw",
+        "title": "TRAVIS HUNTER AND THE BUFF'S HOME OPENER!! (Colorado vs. Nebraska Rivalry Game)",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGit-i5jI2A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGit-i5jI2A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGit-i5jI2A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/JGit-i5jI2A/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/JGit-i5jI2A/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Travis Hunter",
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "TRAVIS HUNTER AND THE BUFF'S HOME OPENER!! (Colorado vs. Nebraska Rivalry Game)",
+          "description": ""
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "KeSfVJ2nNkh-jOtbz6RgVbatCjw",
+      "id": "WQdqgrWvy6g",
+      "snippet": {
+        "publishedAt": "2023-09-11T18:33:27Z",
+        "channelId": "UC7ITT3ooYWDYY_ehIUbt6eg",
+        "title": "Super11 Asia Cup 2023 | Super 4 | Pakistan vs India | Full Match Highlights",
+        "description": "Super11 Asia Cup 2023 | Super 4 | Pakistan vs India | Full Match Highlights",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/WQdqgrWvy6g/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/WQdqgrWvy6g/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/WQdqgrWvy6g/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/WQdqgrWvy6g/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/WQdqgrWvy6g/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Asian Cricket Council",
+        "categoryId": "17",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "Super11 Asia Cup 2023 | Super 4 | Pakistan vs India | Full Match Highlights",
+          "description": "Super11 Asia Cup 2023 | Super 4 | Pakistan vs India | Full Match Highlights"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "5kN6swLGNEZJ6LqT7C-7sGZEe2w",
+      "id": "LYf4yPiuj40",
+      "snippet": {
+        "publishedAt": "2023-09-11T18:21:39Z",
+        "channelId": "UCOsATJw-IZgqGT8MFrHjKGg",
+        "title": "things that would make me rather be electrocuted",
+        "description": "Get NordVPN’s 2 year plan + 4 extra months free here: (https://nordvpn.com/icecreamsandwich) It’s risk free with NordVPN’s 30 day money back guarantee!\n\nthere are a lot of good things in this world but also a lot of yucky ick things too. this is a bunch of stuff that makes me rather be exploded or electrocuted. idk what it is but some sensations just make me feel like im hhrrrkkkmmpphhbbbpphyptpbpthpt. you know?\n\nanimators: \nDavidToons - https://twitter.com/DavidToons_\nBigChapula - https://twitter.com/bigchaslappa\nAbnormalChaos - https://linktr.ee/abnormalchaos\nand me :)\n\n\nThank you for watching.\n\nMERCH IS HERE:\nhttps://icecreamsandwich.store/\n📱 twitter:\nhttps://twitter.com/ICSandwichGuy\n📷 instagram:\nhttps://www.instagram.com/icecreamsandwichguy/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/LYf4yPiuj40/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/LYf4yPiuj40/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/LYf4yPiuj40/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/LYf4yPiuj40/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/LYf4yPiuj40/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Ice Cream Sandwich",
+        "categoryId": "23",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "things that would make me rather be electrocuted",
+          "description": "Get NordVPN’s 2 year plan + 4 extra months free here: (https://nordvpn.com/icecreamsandwich) It’s risk free with NordVPN’s 30 day money back guarantee!\n\nthere are a lot of good things in this world but also a lot of yucky ick things too. this is a bunch of stuff that makes me rather be exploded or electrocuted. idk what it is but some sensations just make me feel like im hhrrrkkkmmpphhbbbpphyptpbpthpt. you know?\n\nanimators: \nDavidToons - https://twitter.com/DavidToons_\nBigChapula - https://twitter.com/bigchaslappa\nAbnormalChaos - https://linktr.ee/abnormalchaos\nand me :)\n\n\nThank you for watching.\n\nMERCH IS HERE:\nhttps://icecreamsandwich.store/\n📱 twitter:\nhttps://twitter.com/ICSandwichGuy\n📷 instagram:\nhttps://www.instagram.com/icecreamsandwichguy/"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "Hp6hk2e_znR5mm2WcV-ZgGUvJcc",
+      "id": "Mu5iU38RIuU",
+      "snippet": {
+        "publishedAt": "2023-09-12T15:59:08Z",
+        "channelId": "UCFXKLSrT-4-Mf5TRqv40rgw",
+        "title": "Behind The Sims: A FIRST LOOK?! STUFF PACKS?! & THE LATEST ON PROJECT RENE!",
+        "description": "Sul Sul Simmers! \n\nWelcome to the third episode of Behind The Sims, our community series that covers the latest updates, sneak peeks and deep dives into game development, including the latest on Project Rene, new content for The Sims Mobile, The Sims Freeplay, & The Sims 4.\n\nThe Sims™ team is committed to keeping you in the loop on all that’s happening across The Sims franchises as we continue to expand on opportunities for self-discovery and deeper connections.\n\nAlso on The Sims Twitch: twitch.tv/thesims",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Mu5iU38RIuU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Mu5iU38RIuU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Mu5iU38RIuU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/Mu5iU38RIuU/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/Mu5iU38RIuU/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "The Sims",
+        "tags": [
+          "The Sims 4",
+          "Build/Buy",
+          "Sims 4",
+          "TS4",
+          "The Sims Gameplay",
+          "Game",
+          "Gamer",
+          "Games",
+          "Video Games",
+          "PC",
+          "Mac",
+          "Xbox One",
+          "PlayStation 4",
+          "TheSims4",
+          "The Sims",
+          "Sims",
+          "Maxis",
+          "Life Simulation",
+          "Life Simulator",
+          "Simlish",
+          "EA",
+          "Electronic Arts",
+          "The Sims (Video Game)",
+          "Behind The Sims",
+          "Behind the Scenes",
+          "Smore Lore",
+          "The Sims FreePlay",
+          "Sims FreePlay",
+          "The Sims Mobile",
+          "BTS"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "en",
+        "localized": {
+          "title": "Behind The Sims: A FIRST LOOK?! STUFF PACKS?! & THE LATEST ON PROJECT RENE!",
+          "description": "Sul Sul Simmers! \n\nWelcome to the third episode of Behind The Sims, our community series that covers the latest updates, sneak peeks and deep dives into game development, including the latest on Project Rene, new content for The Sims Mobile, The Sims Freeplay, & The Sims 4.\n\nThe Sims™ team is committed to keeping you in the loop on all that’s happening across The Sims franchises as we continue to expand on opportunities for self-discovery and deeper connections.\n\nAlso on The Sims Twitch: twitch.tv/thesims"
+        },
+        "defaultAudioLanguage": "en"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jUXBoTHQH9m0UvvqmH_ZOq1S_UU",
+      "id": "X65R6jh7SR8",
+      "snippet": {
+        "publishedAt": "2023-09-12T14:00:07Z",
+        "channelId": "UCqly9F4Fr_jf2Y1Cy5hacRg",
+        "title": "DRAGON BALL LEGENDS \"REVEALS ＆ STUFF #31\"",
+        "description": "Reveals & Stuff #31 is coming!\nGet all the latest info on the ongoing \"Episode Campaign: Dragon Ball Saga\" in this Reveals & Stuff!\nOf course, that includes info on new characters, so you won't want to miss it!\n\nBroadcast Date & Time: From 9/12/2023 14：00 (UTC) (Sched.)\n*YouTube offers English, French, German, Spanish, Chinese, and Korean subtitles.\nーーーーーーーーーー\n▼DRAGON BALL LEGENDS Official Social Media Accounts\nVisit our website here: https://dble.bn-ent.net/en/\nOfficial X (Twitter): https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official/\nInstagram: https://www.instagram.com/db_legends/\nーーーーーーーーーー\nDownload Now: https://bnent.jp/dbl_yt_des/",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/X65R6jh7SR8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/X65R6jh7SR8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/X65R6jh7SR8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/X65R6jh7SR8/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/X65R6jh7SR8/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "Bandai Namco Entertainment",
+        "tags": [
+          "バンダイナムコ",
+          "バンナム",
+          "876",
+          "876TV",
+          "BNE",
+          "バンダイナムコエンターテインメント",
+          "BANDAINAMCO",
+          "BANNAM",
+          "ばんなむ",
+          "ばんだいなむこ",
+          "ばんだいなむこえんたーていんめんと",
+          "バンナムTV",
+          "DRAGON BALL LEGENDS",
+          "DRAGON BALL",
+          "LEGENDS",
+          "Dokkan",
+          "DB",
+          "DBL",
+          "Video and Stuff",
+          "Video ＆ Stuff",
+          "Video",
+          "Stuff",
+          "Reveals & Stuff",
+          "Reveals"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "DRAGON BALL LEGENDS \"REVEALS ＆ STUFF #31\"",
+          "description": "Reveals & Stuff #31 is coming!\nGet all the latest info on the ongoing \"Episode Campaign: Dragon Ball Saga\" in this Reveals & Stuff!\nOf course, that includes info on new characters, so you won't want to miss it!\n\nBroadcast Date & Time: From 9/12/2023 14：00 (UTC) (Sched.)\n*YouTube offers English, French, German, Spanish, Chinese, and Korean subtitles.\nーーーーーーーーーー\n▼DRAGON BALL LEGENDS Official Social Media Accounts\nVisit our website here: https://dble.bn-ent.net/en/\nOfficial X (Twitter): https://twitter.com/db_legends\nFacebook: https://www.facebook.com/DBLegends.Official/\nInstagram: https://www.instagram.com/db_legends/\nーーーーーーーーーー\nDownload Now: https://bnent.jp/dbl_yt_des/"
+        },
+        "defaultAudioLanguage": "en-US"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "yWUYxWAlufC1piYh1t_NUUixH8s",
+      "id": "nQOM_h3RtmM",
+      "snippet": {
+        "publishedAt": "2023-09-12T09:00:28Z",
+        "channelId": "UCb-ekPowbBlQhyt7ZXPiu5Q",
+        "title": "TVアニメ「進撃の巨人」The Final Season完結編（後編）PV第2弾",
+        "description": "TVアニメ「進撃の巨人」The Final Season完結編（後編）\nNHK総合にて2023年11月4日(土)24時よりスペシャル放送！\n\nLemino、dアニメストア、Netflix、TELASA、U-NEXT、Amazon Prime Video、DMM\nTV、ABEMAにて最速配信！\n\nTVアニメ「進撃の巨人」The Final Season完結編（前編）\nNHK総合にて2023年10月28日（土）24時より再放送！\n\nhttps://shingeki.tv/final/onair/\n\n▼進撃の巨人 / Attack on Titan\nWebsite https://shingeki.tv/final/\nTwitter https://twitter.com/anime_shingeki\nInstagram https://www.instagram.com/anime_shingeki_official/\nTikTok https://www.tiktok.com/@shingeki_anime_official?\n\n#進撃の巨人 #AOT #attackontitan",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/nQOM_h3RtmM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/nQOM_h3RtmM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/nQOM_h3RtmM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/nQOM_h3RtmM/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/nQOM_h3RtmM/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "ぽにきゃん-Anime PONY CANYON",
+        "tags": ["ポニーキャニオン", "アニメ"],
+        "categoryId": "1",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ja",
+        "localized": {
+          "title": "TVアニメ「進撃の巨人」The Final Season完結編（後編）PV第2弾",
+          "description": "TVアニメ「進撃の巨人」The Final Season完結編（後編）\nNHK総合にて2023年11月4日(土)24時よりスペシャル放送！\n\nLemino、dアニメストア、Netflix、TELASA、U-NEXT、Amazon Prime Video、DMM\nTV、ABEMAにて最速配信！\n\nTVアニメ「進撃の巨人」The Final Season完結編（前編）\nNHK総合にて2023年10月28日（土）24時より再放送！\n\nhttps://shingeki.tv/final/onair/\n\n▼進撃の巨人 / Attack on Titan\nWebsite https://shingeki.tv/final/\nTwitter https://twitter.com/anime_shingeki\nInstagram https://www.instagram.com/anime_shingeki_official/\nTikTok https://www.tiktok.com/@shingeki_anime_official?\n\n#進撃の巨人 #AOT #attackontitan"
+        },
+        "defaultAudioLanguage": "ja"
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "FvXSOlYoUzZgXFnxloW-fCUehQM",
+      "id": "-j8p5YmYWmg",
+      "snippet": {
+        "publishedAt": "2023-09-12T00:21:19Z",
+        "channelId": "UCZvQ3Fl-OyvZsCWZiIkW78w",
+        "title": "THIS GUARD BUILD WILL BREAK NBA 2K24! #1 BEST SHOOTING AND DRIBBLING BUILD FOR NBA 2K24! 100% GREENS",
+        "description": "We need space to do great things..\n\n                                  - ISOLATION\n\nMy Twitter: https://twitter.com/STEEZO_THE_GOD\n\n\nBrothers:\nSwante - https://www.youtube.com/channel/UCcwCKsyG01U-Cn7EKMZc-Gw\nBxbbaOG - https://www.youtube.com/user/IBxbbleGum\nJaydagoat  -https://www.youtube.com/channel/UCI2YbGjEozcWXIfzqKHBlyw\nRoze - \nhttps://www.youtube.com/c/DarkRoze2k\n\n\n\n\n- NBA 2K23 NEXT GEN BEST FASTEST DRIBBLE MOVES IN NBA 2K21\n- NBA 2K23 NEXT GEN BECOME A DRIBBLE GOD\n- NBA 2K23 NEXT GEN NEW SECRET BADGE UNLOCKED\n- NBA 2K23 NEXT GEN UNLIMITED STAMINA BAR\n- NBA 2K23 NEXT GEN ULTIMATE DRIBBLE TUTORIAL\n- NBA 2K23 NEXT GEN BEST SIGS IN 2K23 MYPARK\n- HOW TO DRIBBLE LIKE STEEZO NBA 2K23 NEXT GEN\n- BEST HALLOWEEN OUTFITS ON NBA 2K23 \n- BEST DRIBBLE GOD OUTFITS ON NBA 2K23\n- NBA 2K23 HALLOWEEN UPDATE \n- NBA 2k23 THANKSGIVING CLOTHES NEXT GEN\n- NBA 2K23 THANKSGIVING UPDATE\n- BEST THANKSGIVING OUTFITS ON NBA 2K22 NEXT GEN\n- NBA 2K23 THANKSGIVING OUTFITS \n- NBA 2K23 NEXT GEN CHRISTMAS OUTFITS \n- BEST CHRISTMAS OUTFITS 2K23 NEXT GEN\n- NBA 2K23 NEXT GEN CHRISTMAS UPDATE \n- NBA 2K23 NEXT GEN MASCOT DRIBBLE MIXTAPE\n- NBA 2K23 NEXT GEN MASCOT MIXTAPE\n- NBA 2K23 NEXT GEN DRIBBLE MIXTAPE\n\nNBA 2K23 NEXT GEN MYPARK TRAILER! MASCOTS, JORDAN REC CENTER, PLAYGROUND NEWS AND MORE\nNBA 2K23 NEXT GEN VC, NBA 2K23 NEXT GEN DRIBBLE MIXTAPE, NBA 2K23 NEXT GEN VC GLITCH, NBA 2K23 NEXT GEN VC FAST, NBA 2K21 NEXT GEN TOP REP, NBA 2K23 NEXT GEN 99 OVERALL, NBA 2K21 NEXT GEN FIRST 99 OVERALL, NBA 2K31 NEXT GEN, NBA 2K23 NEXT GEN GAMEPLAY, NBA 2K23 NEXT GEN JUMPSHOT, NBA 2K23 NEXT GEN JUMPSHOT, NBA 2K23 NEXT GEN DRIBBLE MOVES, NBA 2K23 NEXT GEN BEST BUILD, NBA 2K23 NEXT GEN BEST ARCHETYPE, NBA 2K23 NEXT GEN ARCHETYPE, NBA 2K23 NEXT GEN MYPARK, NBA 2K23 NEXT GEN MYTEAM, NBA 2K23 NEXT GEN MYCAREER, NBA 2K23 NEXT GEN NEWS, NBA 2K23 NEXT GEN BEST JUMPSHOT, NBA 2K23 NEXT GEN MYPARK GAMEPLAY, NBA 2K23 NEXT GEN STRETCH BIG, NBA 2K23 NEXT GEN POINT GUARD BUILD, NBA 2K23 NEXT GEN STRETCH BIG BUILD, NBA 2K23 NEXT GEN STRETCH BIG JUMPSHOT, NBA 2K23 NEXT GEN BADGES, NBA 2K23NEXT GEN POINT FORWARD BUILD, NBA 2K23 NEXT GEN POINT FORWARD, NBA 2K23 NEXT GEN CENTER, NBA 2K23 NEXT GEN CENTER  BUILD, NBA 2K23 NEXT GEN BEST CENTER BUILD, NBA 2K21 NEXT GEN SLASHER, NBA 2K21 NEXT GEN SLASHER BUILD, NBA 2K21 SIGNATURE STYLES, NBA 2K21 PRETTYBOYFREDO, NBA 2K21 SOLLUMINATI, NBA 2K23 PRETTYBOYFREDO, NBA 2K21 BEST DRIBBLE MOVES, NBA 2K23 DUKE DENNIS, NBA 2K23 SHOT CREATOR, NBA 2K23 SHOT CREATOR JUMPSHOT, NBA 2K23 SHOT CREATOR BUILD, NBA 2K23 SHOT METER, NBA 2K23 BEST JUMPSHOT, NBA 2K23 GREEN JUMPSHOT, NBA 2K23 BEST FAST JUMPSHOT, 2K23 DRIBBLE MIXTAPE, NBA 2K23 DRIBBLE GOD MIXTAPE, \n\nPRETTYBOYFREDO, PRETTYBOYFREDO JUMPSHOT, PRETTYBOYFREDO, SOLLUMINATI, SOLLUMINATI JUMPSHOT, SOLLUMINATI STRETCH BIG, AGENT 00, AGENT 00 JUMPSHOT, AGENT 00 NBA 2K21, CASH NASTY, CASH NASTY NBA 2K21, DUKE DENNIS, DUKE DENNIS STRETCH BIG, STRETCH BIG, JUMPSHOT, BEST JUMPSHOT, BEST JUMPSHOT NBA 2K21, NBA 2K21 JUMPSHOT, NBA 2K21 GAMEPLAY, NBA 2K21 99 OVERALL, NBA 2K21 MYTEAM, BEST DRIBBLE MOVES, COLETHEMAN DRIBBLE MOVES, STEEZO THE GOD DRIBBLE MOVES, STEEZO DRIBBLE MOVES, CHEESAHOLIC DRIBBLE MOVES, CHEESAHOLIC, IMDAVISSS, IMDAVISSS 99 OVERALL, TYCENO, TYCENO 99 OVERALL, TYCENO SHOT CREATOR, SHOT CREATOR, PURE SHARP, STRETCH BIG, POINT FORWARD, PURE POINT FORWARD, NBA 2K21 CENTER, NBA 2K21 ARCHETYPE, NBA 2K21 BUILD, NBA 2K21 VC, NBA 2K21 VC GLITCH, FIRST 99 OVERALL, HANKDATANK DRIBBLE MOVES, 100 GAME WIN STREAK, 100 GAME WIN STREAK NBA 2K21, GAMEPLAY, NBA 2K21 IN REAL LIFE, NBA 2K21 MYCAREER, NBA 2K21 BEST SOUNDTRACK, NBA 2K21 MYTEAM, NBA 2K21 LOCKERCODES\n\nBEST JUMPSHOT NBA 2K23 NEXT GEN\nBEST JUMPSHOT NBA2K23 NEXT GEN\nGREEN JUMPSHOT NBA2K23 NEXT GEN\nWET JUMPSHOT NBA 2K23 NEXT GEN\nJUMPSHOT FOR MYCAREER NBA 2K23 NEXT GEN\nJUMPSHOT FOR PRO AM NBA 2K23 NEXT GEN\nJUMPSHOT FOR PARK NBA 2K23 NEXT GEN\nPLAYMAKER JUMPSHOT NBA 2K23 NEXT GEN\nJUMPSHOT FOR SHOT CREATOR NBA 2K23 NEXT GEN\nJUMPSHOT FOR POINT FORWARD NBA 2K23 NEXT GEN\nJUMPSHOT FOR STRETCH BIG NBA 2K23 NEXT GEN\nWET JUMPSHOT NBA 2K23 NEXT GEN\nWET JUMPSHOT FOR PLAYMAKERS NEXT GEN\nWET JUMPSHOT FOR SHARPSHOOTERS NEXT GEN\nWET JUMPSHOT FOR STRETCH BIG  IN REAL LIFE, PLAYGROUND IN REAL LIFE NBA2K31 NEXT GEN,90 OVERALL REACTION NBA2K21 NEXT GEN, 91 OVERALL REACTION NBA2K21 NEXT GEN, 92 OVERALL REACTION NBA2K23 NEXT GEN, 93 OVERALL REACTION NBA2K23 NEXT GEN, 94 OVERALL REACTION NBA2K21 NEXT GEN, 95 OVERALL REACTION NBA 2K23 NEXT GEN, 96 OVERALL REACTION NBA2K23 NEXT GEN, 97 OVERALL REACTION NBA2K23 NEXT GEN,, chris smoove, best dribble combos nba 2k23, dribble god mixtape, lsk, nba 2k23 best sharpshooter player build, nba 2k23 double rep weekend, nba 2k23 demigod glitch, nba 2k23 dribble mixtape",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/-j8p5YmYWmg/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/-j8p5YmYWmg/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/-j8p5YmYWmg/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/-j8p5YmYWmg/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/-j8p5YmYWmg/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "STEEZO THE GOD",
+        "tags": [
+          "nba 2k24",
+          "2k24",
+          "nba 2k24 park",
+          "nba 2k",
+          "nba 2k24 dribble tutorial",
+          "nba 2k24 current gen",
+          "nba 2k24 next gen",
+          "nba 2k24 best player build",
+          "nba 2k24 best jumpshot",
+          "nba 2k24 steezo",
+          "nba 2k24 gman",
+          "nba 2k24 joe knows",
+          "nba 2k24 tyceno",
+          "nba 2k24 duke dennis",
+          "nba 2k24 demigod",
+          "nba 2k24 glitch",
+          "nba 2k24 best dribble moves",
+          "nba 2k24 dribbling",
+          "nba 2k24 comp stage",
+          "steezo dribble tutorial",
+          "nba 2k24 builder",
+          "nba 2k24 curry",
+          "nba 2k24 lebron",
+          "nba 2k24 jumpshot",
+          "nba 2k24 greenlight"
+        ],
+        "categoryId": "20",
+        "liveBroadcastContent": "none",
+        "localized": {
+          "title": "THIS GUARD BUILD WILL BREAK NBA 2K24! #1 BEST SHOOTING AND DRIBBLING BUILD FOR NBA 2K24! 100% GREENS",
+          "description": "We need space to do great things..\n\n                                  - ISOLATION\n\nMy Twitter: https://twitter.com/STEEZO_THE_GOD\n\n\nBrothers:\nSwante - https://www.youtube.com/channel/UCcwCKsyG01U-Cn7EKMZc-Gw\nBxbbaOG - https://www.youtube.com/user/IBxbbleGum\nJaydagoat  -https://www.youtube.com/channel/UCI2YbGjEozcWXIfzqKHBlyw\nRoze - \nhttps://www.youtube.com/c/DarkRoze2k\n\n\n\n\n- NBA 2K23 NEXT GEN BEST FASTEST DRIBBLE MOVES IN NBA 2K21\n- NBA 2K23 NEXT GEN BECOME A DRIBBLE GOD\n- NBA 2K23 NEXT GEN NEW SECRET BADGE UNLOCKED\n- NBA 2K23 NEXT GEN UNLIMITED STAMINA BAR\n- NBA 2K23 NEXT GEN ULTIMATE DRIBBLE TUTORIAL\n- NBA 2K23 NEXT GEN BEST SIGS IN 2K23 MYPARK\n- HOW TO DRIBBLE LIKE STEEZO NBA 2K23 NEXT GEN\n- BEST HALLOWEEN OUTFITS ON NBA 2K23 \n- BEST DRIBBLE GOD OUTFITS ON NBA 2K23\n- NBA 2K23 HALLOWEEN UPDATE \n- NBA 2k23 THANKSGIVING CLOTHES NEXT GEN\n- NBA 2K23 THANKSGIVING UPDATE\n- BEST THANKSGIVING OUTFITS ON NBA 2K22 NEXT GEN\n- NBA 2K23 THANKSGIVING OUTFITS \n- NBA 2K23 NEXT GEN CHRISTMAS OUTFITS \n- BEST CHRISTMAS OUTFITS 2K23 NEXT GEN\n- NBA 2K23 NEXT GEN CHRISTMAS UPDATE \n- NBA 2K23 NEXT GEN MASCOT DRIBBLE MIXTAPE\n- NBA 2K23 NEXT GEN MASCOT MIXTAPE\n- NBA 2K23 NEXT GEN DRIBBLE MIXTAPE\n\nNBA 2K23 NEXT GEN MYPARK TRAILER! MASCOTS, JORDAN REC CENTER, PLAYGROUND NEWS AND MORE\nNBA 2K23 NEXT GEN VC, NBA 2K23 NEXT GEN DRIBBLE MIXTAPE, NBA 2K23 NEXT GEN VC GLITCH, NBA 2K23 NEXT GEN VC FAST, NBA 2K21 NEXT GEN TOP REP, NBA 2K23 NEXT GEN 99 OVERALL, NBA 2K21 NEXT GEN FIRST 99 OVERALL, NBA 2K31 NEXT GEN, NBA 2K23 NEXT GEN GAMEPLAY, NBA 2K23 NEXT GEN JUMPSHOT, NBA 2K23 NEXT GEN JUMPSHOT, NBA 2K23 NEXT GEN DRIBBLE MOVES, NBA 2K23 NEXT GEN BEST BUILD, NBA 2K23 NEXT GEN BEST ARCHETYPE, NBA 2K23 NEXT GEN ARCHETYPE, NBA 2K23 NEXT GEN MYPARK, NBA 2K23 NEXT GEN MYTEAM, NBA 2K23 NEXT GEN MYCAREER, NBA 2K23 NEXT GEN NEWS, NBA 2K23 NEXT GEN BEST JUMPSHOT, NBA 2K23 NEXT GEN MYPARK GAMEPLAY, NBA 2K23 NEXT GEN STRETCH BIG, NBA 2K23 NEXT GEN POINT GUARD BUILD, NBA 2K23 NEXT GEN STRETCH BIG BUILD, NBA 2K23 NEXT GEN STRETCH BIG JUMPSHOT, NBA 2K23 NEXT GEN BADGES, NBA 2K23NEXT GEN POINT FORWARD BUILD, NBA 2K23 NEXT GEN POINT FORWARD, NBA 2K23 NEXT GEN CENTER, NBA 2K23 NEXT GEN CENTER  BUILD, NBA 2K23 NEXT GEN BEST CENTER BUILD, NBA 2K21 NEXT GEN SLASHER, NBA 2K21 NEXT GEN SLASHER BUILD, NBA 2K21 SIGNATURE STYLES, NBA 2K21 PRETTYBOYFREDO, NBA 2K21 SOLLUMINATI, NBA 2K23 PRETTYBOYFREDO, NBA 2K21 BEST DRIBBLE MOVES, NBA 2K23 DUKE DENNIS, NBA 2K23 SHOT CREATOR, NBA 2K23 SHOT CREATOR JUMPSHOT, NBA 2K23 SHOT CREATOR BUILD, NBA 2K23 SHOT METER, NBA 2K23 BEST JUMPSHOT, NBA 2K23 GREEN JUMPSHOT, NBA 2K23 BEST FAST JUMPSHOT, 2K23 DRIBBLE MIXTAPE, NBA 2K23 DRIBBLE GOD MIXTAPE, \n\nPRETTYBOYFREDO, PRETTYBOYFREDO JUMPSHOT, PRETTYBOYFREDO, SOLLUMINATI, SOLLUMINATI JUMPSHOT, SOLLUMINATI STRETCH BIG, AGENT 00, AGENT 00 JUMPSHOT, AGENT 00 NBA 2K21, CASH NASTY, CASH NASTY NBA 2K21, DUKE DENNIS, DUKE DENNIS STRETCH BIG, STRETCH BIG, JUMPSHOT, BEST JUMPSHOT, BEST JUMPSHOT NBA 2K21, NBA 2K21 JUMPSHOT, NBA 2K21 GAMEPLAY, NBA 2K21 99 OVERALL, NBA 2K21 MYTEAM, BEST DRIBBLE MOVES, COLETHEMAN DRIBBLE MOVES, STEEZO THE GOD DRIBBLE MOVES, STEEZO DRIBBLE MOVES, CHEESAHOLIC DRIBBLE MOVES, CHEESAHOLIC, IMDAVISSS, IMDAVISSS 99 OVERALL, TYCENO, TYCENO 99 OVERALL, TYCENO SHOT CREATOR, SHOT CREATOR, PURE SHARP, STRETCH BIG, POINT FORWARD, PURE POINT FORWARD, NBA 2K21 CENTER, NBA 2K21 ARCHETYPE, NBA 2K21 BUILD, NBA 2K21 VC, NBA 2K21 VC GLITCH, FIRST 99 OVERALL, HANKDATANK DRIBBLE MOVES, 100 GAME WIN STREAK, 100 GAME WIN STREAK NBA 2K21, GAMEPLAY, NBA 2K21 IN REAL LIFE, NBA 2K21 MYCAREER, NBA 2K21 BEST SOUNDTRACK, NBA 2K21 MYTEAM, NBA 2K21 LOCKERCODES\n\nBEST JUMPSHOT NBA 2K23 NEXT GEN\nBEST JUMPSHOT NBA2K23 NEXT GEN\nGREEN JUMPSHOT NBA2K23 NEXT GEN\nWET JUMPSHOT NBA 2K23 NEXT GEN\nJUMPSHOT FOR MYCAREER NBA 2K23 NEXT GEN\nJUMPSHOT FOR PRO AM NBA 2K23 NEXT GEN\nJUMPSHOT FOR PARK NBA 2K23 NEXT GEN\nPLAYMAKER JUMPSHOT NBA 2K23 NEXT GEN\nJUMPSHOT FOR SHOT CREATOR NBA 2K23 NEXT GEN\nJUMPSHOT FOR POINT FORWARD NBA 2K23 NEXT GEN\nJUMPSHOT FOR STRETCH BIG NBA 2K23 NEXT GEN\nWET JUMPSHOT NBA 2K23 NEXT GEN\nWET JUMPSHOT FOR PLAYMAKERS NEXT GEN\nWET JUMPSHOT FOR SHARPSHOOTERS NEXT GEN\nWET JUMPSHOT FOR STRETCH BIG  IN REAL LIFE, PLAYGROUND IN REAL LIFE NBA2K31 NEXT GEN,90 OVERALL REACTION NBA2K21 NEXT GEN, 91 OVERALL REACTION NBA2K21 NEXT GEN, 92 OVERALL REACTION NBA2K23 NEXT GEN, 93 OVERALL REACTION NBA2K23 NEXT GEN, 94 OVERALL REACTION NBA2K21 NEXT GEN, 95 OVERALL REACTION NBA 2K23 NEXT GEN, 96 OVERALL REACTION NBA2K23 NEXT GEN, 97 OVERALL REACTION NBA2K23 NEXT GEN,, chris smoove, best dribble combos nba 2k23, dribble god mixtape, lsk, nba 2k23 best sharpshooter player build, nba 2k23 double rep weekend, nba 2k23 demigod glitch, nba 2k23 dribble mixtape"
+        }
+      }
+    },
+    {
+      "kind": "youtube#video",
+      "etag": "jHRmH2Iltxqk7BoTu_ZFusridHs",
+      "id": "ebu2cxRXU-I",
+      "snippet": {
+        "publishedAt": "2023-09-12T09:27:19Z",
+        "channelId": "UC3SyT4_WLHzN7JmHQwKQZww",
+        "title": "[아이유의 팔레트🎨] '뷔'긴 어게인 (With 뷔) Ep.24",
+        "description": "[IU's Palette] 'V'egin Again (With V) Ep.24\n[아이유의 팔레트] '뷔'긴 어게인 (With 뷔) Ep.24\n\n#아이유 #팔레트 #뷔",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/ebu2cxRXU-I/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/ebu2cxRXU-I/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/ebu2cxRXU-I/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          },
+          "standard": {
+            "url": "https://i.ytimg.com/vi/ebu2cxRXU-I/sddefault.jpg",
+            "width": 640,
+            "height": 480
+          },
+          "maxres": {
+            "url": "https://i.ytimg.com/vi/ebu2cxRXU-I/maxresdefault.jpg",
+            "width": 1280,
+            "height": 720
+          }
+        },
+        "channelTitle": "이지금 [IU Official]",
+        "tags": [
+          "IU",
+          "아이유",
+          "이담",
+          "EDAM",
+          "이지금",
+          "dlwlrma",
+          "아이유tv",
+          "아티비",
+          "아이유티비",
+          "아이유의팔레트",
+          "팔레트",
+          "뷔",
+          "비긴어게인",
+          "뷔긴어게인",
+          "BTS",
+          "Love Me Again",
+          "Slow Dancing",
+          "이런 엔딩"
+        ],
+        "categoryId": "24",
+        "liveBroadcastContent": "none",
+        "defaultLanguage": "ko",
+        "localized": {
+          "title": "[아이유의 팔레트🎨] '뷔'긴 어게인 (With 뷔) Ep.24",
+          "description": "[IU's Palette] 'V'egin Again (With V) Ep.24\n[아이유의 팔레트] '뷔'긴 어게인 (With 뷔) Ep.24\n\n#아이유 #팔레트 #뷔"
+        },
+        "defaultAudioLanguage": "ko"
+      }
+    }
+  ],
+  "nextPageToken": "CBkQAA",
+  "pageInfo": {
+    "totalResults": 200,
+    "resultsPerPage": 25
+  }
+}

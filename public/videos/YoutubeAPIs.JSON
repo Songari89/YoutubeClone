@@ -1,0 +1,856 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "v9F0MJpdJDpMbJ66E5EtC0MuZfo",
+  "nextPageToken": "CBkQAA",
+  "regionCode": "US",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 25
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "oXgv5Qf3K2MgNuVgHuzzqW6Ca2k",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCzCedBCSSltI1TFd3bKyN6g"
+      },
+      "snippet": {
+        "publishedAt": "2006-12-10T19:12:09Z",
+        "channelId": "UCzCedBCSSltI1TFd3bKyN6g",
+        "title": "EXO",
+        "description": "D.O. 디오 The 2nd Mini Album 〖기대〗 ➫ 2023.09.18 6PM (KST) Welcome to EXO Official YouTube Channel!",
+        "thumbnails": {
+          "default": {
+            "url": "https://yt3.ggpht.com/fk1jddJjm-gLj_f0DjAUOnwxFLRReD5q7Q5w6ktxELwAusCi05vxGndUeRuvr8Ssbx-sDqry7w=s88-c-k-c0xffffffff-no-rj-mo"
+          },
+          "medium": {
+            "url": "https://yt3.ggpht.com/fk1jddJjm-gLj_f0DjAUOnwxFLRReD5q7Q5w6ktxELwAusCi05vxGndUeRuvr8Ssbx-sDqry7w=s240-c-k-c0xffffffff-no-rj-mo"
+          },
+          "high": {
+            "url": "https://yt3.ggpht.com/fk1jddJjm-gLj_f0DjAUOnwxFLRReD5q7Q5w6ktxELwAusCi05vxGndUeRuvr8Ssbx-sDqry7w=s800-c-k-c0xffffffff-no-rj-mo"
+          }
+        },
+        "channelTitle": "EXO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2006-12-10T19:12:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "bDgwUpuYOmbzoYbK3dROOVc5L_A",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "i5nUufn_FmE"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-10T08:59:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Cream Soda&#39; MV",
+        "description": "EXO's 7th Album \"EXIST\" is out! Listen and download on your favorite platform: https://EXO.lnk.to/EXIST 'Let Me In' MV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/i5nUufn_FmE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/i5nUufn_FmE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/i5nUufn_FmE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-10T08:59:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EjgrReFcQ2ciqpkdINchMrBnaLI",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "zomvO2Ii-kA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-11T10:00:10Z",
+        "channelId": "UCtCiO5t2voB14CmZKTkIzPQ",
+        "title": "엑소(EXO)의 킬링보이스를 라이브로! - 으르렁, MAMA, 나비소녀, Cream Soda, Sing For You, 전야, 중독, Monster, 첫 눈, Power |딩고뮤직",
+        "description": "레전드의 귀환, 엑소의 킬링보이스! 이번 앨범 타이틀곡 'Cream Soda'도 많관부 :) [선곡리스트] 00:00 오프닝 00:32 으르렁 (Growl) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/zomvO2Ii-kA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/zomvO2Ii-kA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/zomvO2Ii-kA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "딩고 뮤직 / dingo music",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-11T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "YzRdxJ-PB4Y2xdvN56_9b3nPq9c",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "r2VZQa2IgP4"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-30T09:00:40Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Hear Me Out&#39; MV",
+        "description": "EXO's 7th Album \"EXIST\" is out! Listen and download on your favorite platform: https://EXO.lnk.to/EXIST 'Cream Soda' MV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/r2VZQa2IgP4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/r2VZQa2IgP4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/r2VZQa2IgP4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-30T09:00:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mUZ9uas5uGpP0xaG9CiDOpiEeMw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "91VhCIQNjIc"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-12T09:00:09Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Let Me In&#39; MV",
+        "description": "EXO's 7th Album \"EXIST\" is out! Listen and download on your favorite platform: https://EXO.lnk.to/EXIST 'Cream Soda' MV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/91VhCIQNjIc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/91VhCIQNjIc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/91VhCIQNjIc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-12T09:00:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "3QcJXrVD2BAjos765rYN2G966wA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "QBBP8LEFj-8"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-10T07:21:09Z",
+        "channelId": "UCovj9nsR7XJyC8RvtvSbWbA",
+        "title": "Kpop Idols who Failed as an Idol…#shorts#bts#blackpink#exo#kpop#kpopidol#fyp#fypシ",
+        "description": "bts #shorts #fyp #fypシ #btsedits #btsshorts #btstiktok #btsarmy #fypage #youtubeshorts #shortsyoutube #fyptiktok #fyp #jimin ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/QBBP8LEFj-8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/QBBP8LEFj-8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/QBBP8LEFj-8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Bts forever",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-10T07:21:09Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "gqqjUYHIXnw-3uoM4x5rWFayBtk",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yWfsla_Uh80"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-31T03:00:19Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;CALL ME BABY&#39; MV",
+        "description": "Listen and download on iTunes & Apple Music and Spotify [KOR ver.]",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yWfsla_Uh80/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yWfsla_Uh80/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yWfsla_Uh80/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2015-03-31T03:00:19Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e1iFXbHzMKryd08WboI-5cJqSuQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "F2uUs9MKDyA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-12T10:00:10Z",
+        "channelId": "UCzCedBCSSltI1TFd3bKyN6g",
+        "title": "EXO 엑소 &#39;Cream Soda&#39; Dance Practice",
+        "description": "EXO's 7th Album \"EXIST\" is out! Listen and download on your favorite platform: https://EXO.lnk.to/EXIST 'Cream Soda' MV ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/F2uUs9MKDyA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/F2uUs9MKDyA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/F2uUs9MKDyA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EXO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-12T10:00:10Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JEgYo0wKb1wcp-Wtav5h1OuhZuc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "pSudEWBAYRE"
+      },
+      "snippet": {
+        "publishedAt": "2018-12-13T09:00:11Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Love Shot&#39; MV",
+        "description": "EXO's the 5th album repackage \"LOVE SHOT\" is out! Listen and download on iTunes & Apple Music, Spotify, and Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/pSudEWBAYRE/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/pSudEWBAYRE/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/pSudEWBAYRE/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-12-13T09:00:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "24XtClB7er-Z8Fd5u9CHUQf5Qog",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "KSH-FVVtTf0"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-08T16:09:06Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Monster&#39; MV",
+        "description": "EXO has released their 3rd full album “EX'ACT” with double title tracks “Monster” and “Lucky One”. Listen and download on ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/KSH-FVVtTf0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2016-06-08T16:09:06Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "VUpN4xempDoN0B7PU8S2q2cXqTo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "gD1wWFMWvW8"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-13T11:47:03Z",
+        "channelId": "UCbD8EppRX3ZwJSou-TVo90A",
+        "title": "&#39;최초 공개&#39; EXO - Cream Soda #엠카운트다운 EP.805 | Mnet 230713 방송",
+        "description": "티빙에서 스트리밍 : https://tving.onelink.me/xHqC/30a78d6f M COUNTDOWN｜Ep.805 엑소 - 크림 소다 (EXO - Cream Soda) ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/gD1wWFMWvW8/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/gD1wWFMWvW8/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/gD1wWFMWvW8/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Mnet K-POP",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-13T11:47:03Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "mEak2341hhSoii7pd8QUhgG5mD4",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "5vmJ_wq2NeA"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-08T09:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "D.O. 디오 &#39;별 떨어진다 (I Do)&#39; MV",
+        "description": "D.O.'s pre-release single \"별 떨어진다 (I Do)\" is out! Listen and download on your favorite platform: https://DO.lnk.to/IDo D.O.'s 2nd ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/5vmJ_wq2NeA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/5vmJ_wq2NeA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/5vmJ_wq2NeA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-08T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "Lrsm-ebhh_EVU0Ss1GV3AyWlITA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "uxmP4b2a0uY"
+      },
+      "snippet": {
+        "publishedAt": "2019-11-27T09:00:07Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Obsession&#39; MV",
+        "description": "EXO's the 6th album \"OBSESSION\" is out! Listen and download on your favorite platform: http://smarturl.it/EXO_OBSESSION ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/uxmP4b2a0uY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/uxmP4b2a0uY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/uxmP4b2a0uY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2019-11-27T09:00:07Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "hvIbeS2SuFU7gcS8JzdaVqPUXoE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "bR1cxmb9jkA"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-15T07:49:23Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "EXO (엑소) - Cream Soda | Show! MusicCore | MBC230715방송",
+        "description": "EXO (엑소) - Cream Soda | Show! MusicCore | MBC230715방송 #EXO #CreamSoda #MBCKPOP More clips are ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/bR1cxmb9jkA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/bR1cxmb9jkA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/bR1cxmb9jkA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-15T07:49:23Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "adjz-kzMj8XJ0Cf8hCtg_-4fkSw",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "noIAZcwCDA0"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-16T09:44:32Z",
+        "channelId": "UCS_hnpJLQTvBkqALgapi_4g",
+        "title": "EXO(엑소) - Cream Soda @인기가요 inkigayo 20230716",
+        "description": "EXO - Cream Soda #SBSInkigayo_EP1191 엑소 - Cream Soda #EXO #CreamSoda SBS Inkigayo(인기가요) is a Korean music ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/noIAZcwCDA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/noIAZcwCDA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/noIAZcwCDA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "스브스케이팝 X INKIGAYO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-16T09:44:32Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-ow-K1IRopS7NXkWzsbudMC98IA",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "IdssuxDdqKk"
+      },
+      "snippet": {
+        "publishedAt": "2017-07-18T09:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Ko Ko Bop&#39; MV",
+        "description": "EXO's 4th full album \"THE WAR\" has been released. Listen and download on iTunes & Apple Music, Spotify, and Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/IdssuxDdqKk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2017-07-18T09:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "332a_XNMeJzlXRLCIBYJFHOflp8",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "iwd8N6K-sLk"
+      },
+      "snippet": {
+        "publishedAt": "2018-11-02T09:00:05Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Tempo&#39; MV",
+        "description": "EXO's 5th album \"DON'T MESS UP MY TEMPO\" is out! Listen and download on iTunes & Apple Music, Spotify, and Google Play ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/iwd8N6K-sLk/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/iwd8N6K-sLk/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/iwd8N6K-sLk/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2018-11-02T09:00:05Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "R9Ls3q9OSQXyM-x7vbCDi7PrjJc",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2wXXQ-GJIU4"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-14T14:55:40Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "으르렁 (Growl) - EXO [더 시즌즈-최정훈의 밤의공원] | KBS 230714 방송",
+        "description": "으르렁 (Growl) - EXO #더시즌즈 #으르렁 #EXO #시우민 #백현 #첸 #세훈 #찬열 #수호 #디오 #최정훈 #최정훈의밤의공원 #음악 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2wXXQ-GJIU4/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2wXXQ-GJIU4/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2wXXQ-GJIU4/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-14T14:55:40Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "e00m2yVsdZlokrVGiZgQ4nveQo0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "I3dezFzsNss"
+      },
+      "snippet": {
+        "publishedAt": "2013-07-31T15:00:01Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;으르렁 (Growl)&#39; MV (Korean Ver.)",
+        "description": "Listen and download on iTunes & Apple Music https://itunes.apple.com/us/album/the-1st-album-xoxo-repackage/id683185878 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/I3dezFzsNss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/I3dezFzsNss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/I3dezFzsNss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2013-07-31T15:00:01Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "-5oZwKgVlsjh8JilBLl7Ae2JeAE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "aKnrxdb8lXM"
+      },
+      "snippet": {
+        "publishedAt": "2023-08-11T02:52:14Z",
+        "channelId": "UCnC7ag9Y-4P-QKo8xNSEGrA",
+        "title": "E X O (엑소) | BEST SONGS PLAYLIST 2023",
+        "description": "",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/aKnrxdb8lXM/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/aKnrxdb8lXM/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/aKnrxdb8lXM/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "h e e d d e u n g",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-08-11T02:52:14Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "b19PxQ1StJEsqWvjGAsbhV8hJds",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "2IkoKhr6Tss"
+      },
+      "snippet": {
+        "publishedAt": "2021-06-07T09:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO 엑소 &#39;Don&#39;t fight the feeling&#39; MV",
+        "description": "EXO's Special Album \"DON'T FIGHT THE FEELING\" is out! Listen and download on your favorite platform: ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/2IkoKhr6Tss/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/2IkoKhr6Tss/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/2IkoKhr6Tss/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2021-06-07T09:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yvg_XbutMikZPPfcFI9t0BGwGkU",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "TI0DGvqKZTI"
+      },
+      "snippet": {
+        "publishedAt": "2014-05-06T15:00:02Z",
+        "channelId": "UCEf_Bc-KVd7onSeifS3py9g",
+        "title": "EXO-K 엑소케이 &#39;중독(Overdose)&#39; MV",
+        "description": "The music video of EXO's 'Overdose' is released. Listen and download on iTunes & Apple Music EXO-K ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/TI0DGvqKZTI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/TI0DGvqKZTI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/TI0DGvqKZTI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "SMTOWN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2014-05-06T15:00:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "tDqyl8d5jSA3HpWYaIOV8JNf3nQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kBG2j_f-Inc"
+      },
+      "snippet": {
+        "publishedAt": "2023-09-03T13:00:35Z",
+        "channelId": "UCzCedBCSSltI1TFd3bKyN6g",
+        "title": "SEHUN&amp;CHANYEOL in KL, SG, MNL, BKKㅣEXO-SC BACK TO BACK FANCON TOUR behind",
+        "description": "EXO Official https://www.youtube.com/weareoneEXO https://www.facebook.com/weareoneEXO ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kBG2j_f-Inc/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kBG2j_f-Inc/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kBG2j_f-Inc/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "EXO",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-09-03T13:00:35Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "EJ2eCvOZpk-LSm4fxpOWQUSPHdE",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "kDbpaNruqBs"
+      },
+      "snippet": {
+        "publishedAt": "2023-07-25T07:30:13Z",
+        "channelId": "UCe52oeb7Xv_KaJsEzcKXJJg",
+        "title": "EXO.zip 📂 MAMA부터 Cream Soda까지 | Show! MusicCore",
+        "description": "M:drive 00:00 Cream Soda 230715 03:17 Obsession 191228 06:42 Love Shot 181215 10:06 Tempo 181103 13:50 닿은 순간 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/kDbpaNruqBs/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/kDbpaNruqBs/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/kDbpaNruqBs/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "MBCkpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-07-25T07:30:13Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "JwC2vfeN7MgbYKCT4a9K_cR4ghY",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "lTjIkSQ2JgY"
+      },
+      "snippet": {
+        "publishedAt": "2023-06-29T11:00:35Z",
+        "channelId": "UCeLPm9yH_a_QH8n6445G-Ow",
+        "title": "엑소 컴백? 오우예 씨몬!💥 데뷔곡 &#39;MAMA&#39;부터 &#39;Obsession&#39;까지 엑소 무대 몰아보기 | EXO Stage Compilation",
+        "description": "돌아온 K-POP의 레전드 #엑소 의 컴백 기념   데뷔 무대부터 'Obsession'까지 모아 온 무대 모음으로 오랜 기다림을 달래며 다시 만날 ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/lTjIkSQ2JgY/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/lTjIkSQ2JgY/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/lTjIkSQ2JgY/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "KBS Kpop",
+        "liveBroadcastContent": "none",
+        "publishTime": "2023-06-29T11:00:35Z"
+      }
+    }
+  ]
+}
