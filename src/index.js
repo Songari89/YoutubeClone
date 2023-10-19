@@ -11,7 +11,7 @@ import Videos from "./page/Videos";
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <App />, 
+    element: <App />,
     errorElement: <NotFound />,
     children: [
       { index: true, element: <Videos /> }, //랜딩페이지
