@@ -6,23 +6,12 @@ import axios from "axios";
 //     .then((res) => res.data.items);
 // }
 
-export default class FakeYoutube {
-  constructor() {}
+export default class fakeAPIClient {
 
-  async search(keyword) {
-    return keyword ? this.#searchByKeyword() : this.#mostPopular()
+  async search() {
+    return axios.get("/videos/YoutubeAPIs.json");
   }
-
-  async #searchByKeyword(){
-    return axios
-      .get(`/videos/YoutubeAPIs.json`)
-      .then((res) => res.data.items)
-      .then((items) => items.map((item) => ({ ...item, id: item.id.videoId })));
-  }
-
-  async #mostPopular(){
-    return axios
-      .get(`/videos/YoutubeHotTrends.json`)
-      .then((res) => res.data.items)
+  async videos() {
+    return axios.get("/videos/YoutubeHotTrends.json");
   }
 }

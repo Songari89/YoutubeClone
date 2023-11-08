@@ -10,7 +10,7 @@ export default class YoutubeClient {
     });
   }
 
-  async search(params) {
+  async search(params) { //youtube에서 보내준 params 객체
     return this.httpClient.get('search', params)
   }
 
